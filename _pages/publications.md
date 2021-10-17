@@ -119,7 +119,7 @@ Wijesooriya, C., Rohde, F., Heales, J., **Perdana, A.**, & Clutterbuck, P. (2018
 
 **Perdana, A.**, Robb, A., & Rohde, F (2015). Decision Making with Interactive Data and Information Visualization: A Conceptual Model. In _Business Information Systems Cluster Conference_, UQ Business School. Brisbane, Australia.
 
-**Perdana, A. **(2014) Interactive Data Visualizations: An Experimental Study of Nonprofessional Investors' Perceptions and Decision Outcomes. In _2014 UQBS Research Students' Colloquium_. Brisbane, Australia.
+**Perdana, A.** (2014) Interactive Data Visualizations: An Experimental Study of Nonprofessional Investors' Perceptions and Decision Outcomes. In _2014 UQBS Research Students' Colloquium_. Brisbane, Australia.
 
 
 Manuscript Under Review
