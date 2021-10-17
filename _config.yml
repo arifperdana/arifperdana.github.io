@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Arif Perdana"
-  avatar           : "Photo-ArifPerdana.jpg"
+  avatar           : "/image/Photo-ArifPerdana.jpg"
   bio              : "Associate Professor (Data Science), Monash University, Indonesia"
   location         : "Tangerang, Indonesia"
   employer         :
