@@ -23,3 +23,5 @@ Upcoming Workshop Conducted
 
 Research Featured in the Media and Institutional Webpages
 ======
+![Busines Time](/images/Media_BT.jpg)
+Format: ![Alt Text](url)
