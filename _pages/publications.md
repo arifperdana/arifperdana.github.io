@@ -68,7 +68,7 @@ Koh, S.K., Lee, H.H., & **Perdana, A.** (Forthcoming). Data Analytics in an Unde
 
 **Perdana, A.** (2021). <b>[Automasi Proses Robotik: Konsep dan Aplikasi di Akuntansi](https://play.google.com/store/books/details/Arif_Perdana_Automasi_Proses_Robotik_untuk_Akuntan?id=AQMREAAAQBAJ)</b>. Google Play Book.
 
-**Perdana, A. **(2020). <b>[Data Analytics: Keterampilan Teknis Akuntan dan Auditor di Era Digital](https://play.google.com/store/books/details/Arif_Perdana_Data_Analytics_Keterampilan_Teknis_Ak?id=GEUEEAAAQBAJ)</b>. Malang, Indonesia: Madza Media.
+**Perdana, A.** (2020). <b>[Data Analytics: Keterampilan Teknis Akuntan dan Auditor di Era Digital](https://play.google.com/store/books/details/Arif_Perdana_Data_Analytics_Keterampilan_Teknis_Ak?id=GEUEEAAAQBAJ)</b>. Malang, Indonesia: Madza Media.
 
 
 Peer-reviewed Conferences/Workshops
