@@ -2,7 +2,7 @@
 title: "Teaching at Monash University, Indonesia"
 collection: teaching
 type: "Teaching"
-permalink: /teaching/sit
+permalink: /teaching/monash
 venue: "Monash University"
 date: 2021-01-01
 location: "Tangerang, Indonesia"
