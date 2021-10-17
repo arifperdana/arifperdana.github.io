@@ -23,4 +23,4 @@ Upcoming Workshop Conducted
 
 Research Featured in the Media and Institutional Webpages
 ======
-![Busines Time](/images/Media_BT.jpg)
+![Busines Time](/images/Media_BT.jpg)(https://www.businesstimes.com.sg/sme/70-of-smes-have-not-adopted-data-analytics-with-most-only-familiar-with-spreadsheets-poll)
