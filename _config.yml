@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Arif Perdana | Profile / Site Title"
+title                    : "Arif Perdana / Site Title"
 title_separator          : "-"
 name                     : &name "Arif Perdana"
 description              : &description "Arif Perdana | Data Science and Analytics, and Digital Technologies Enablement"
