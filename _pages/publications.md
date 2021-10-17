@@ -14,25 +14,27 @@ Academic Journals
 
 **Perdana, A**., Lee, H-H., & Jutasompakorn, P. (Forthcoming) Crowdlending in Asia: Lessons from its Chequered History. _Pacific Asia Journal of the Association for Information Systems_. **(ABDC: B; AJG/ABS: 2; JIF: 2)**.
 
-**Perdana, A**., Lee, W.E., & Robb, A. (2021). From Enfant Terrible to Problem-Solver? Tracing the Competing Discourse to Explain Blockchain-Related Technologies’ Diffusion. _Telematics and Informatics_, 63, 101662. **(Scimago: Q1; ABDC: C)**.
+**Perdana, A**., Lee, W.E., & Robb, A. (2021). <b> [From Enfant Terrible to Problem-Solver? Tracing the Competing Discourse to Explain Blockchain-Related Technologies’ Diffusion](https://doi.org/10.1016/j.tele.2021.101662)</b>. _Telematics and Informatics_, 63, 101662. **(Scimago: Q1; ABDC: C)**.
 
-**Perdana, A**., Robb, A., Balachandran, V., & Rohde, F. (2021). Distributed Ledger Technology (DLT): Its Evolutionary Path and the Road Ahead. _Information & Management_, 58, 103316. **(Scimago: Q1; ABDC: A*; AJG/ABS: 3)**.
+**Perdana, A**., Robb, A., Balachandran, V., & Rohde, F. (2021). <b>[Distributed Ledger Technology (DLT): Its Evolutionary Path and the Road Ahead](https://doi.org/10.1016/j.im.2020.103316)</b>. _Information & Management_, 58, 103316. **(Scimago: Q1; ABDC: A*; AJG/ABS: 3)**.
 
-**Perdana, A**., Robb, A., & Rohde, F. (2019). Interactive Data and Information Visualization: Unpacking its Characteristics and Influencing Aspects on Decision-making. _Pacific Asia Journal of the Association for Information Systems_, 11(4), 1-30. **(ABDC: B; AJG/ABS: 2; JIF: 2)**.
+**Perdana, A**., Robb, A., & Rohde, F. (2019). <b>[Interactive Data and Information Visualization: Unpacking its Characteristics and Influencing Aspects on Decision-making](https://aisel.aisnet.org/pajais/vol11/iss4/4/)</b>. _Pacific Asia Journal of the Association for Information Systems_, 11(4), 1-30. **(ABDC: B; AJG/ABS: 2; JIF: 2)**.
 
-**Perdana, A**., Robb, A., & Rohde, F. (2019). Textual and Contextual Analysis of Professionals’ Discourses on XBRL Data and Information Quality. _International Journal of Accounting and Information Management_, 27(3), 492-511. **(Scimago: Q2; ABDC: B; AJG/ABS: 2)**.
+**Perdana, A**., Robb, A., & Rohde, F. (2019). <b>[Textual and Contextual Analysis of Professionals’ Discourses on XBRL Data and Information Quality](https://doi.org/10.1108/IJAIM-01-2018-0003)</b>. _International Journal of Accounting and Information Management_, 27(3), 492-511. **(Scimago: Q2; ABDC: B; AJG/ABS: 2)**.
 
-**Perdana, A**., Robb, A., & Rohde, F. (2019). Interactive Data Visualization for Accounting Information: A Three-Fit Perspective. _Behaviour & Information Technology_, 38(1), 85-100. **(Scimago: Q1; ABDC: A; AJG/ABS: 2)**.
+**Perdana, A**., Robb, A., & Rohde, F. (2019). <b>[Interactive Data Visualization for Accounting Information: A Three-Fit Perspective](https://doi.org/10.1080/0144929X.2018.1514424)</b>. _Behaviour & Information Technology_, 38(1), 85-100. **(Scimago: Q1; ABDC: A; AJG/ABS: 2)**.
 
-**Perdana, A.**, Robb, A., Rohde, F., & Birt, J. (2018). Standard Business Reporting Adoption in Australia – Critically Acclaimed, Box Office Flops: Constructivist and Ecological Rationalities in Information Systems Adoption. _Australasian Journal of Information Systems_, 22. **(Scimago: Q2; ABDC: A; AJG/ABS: 1)**.
+**Perdana, A.**, Robb, A., Rohde, F., & Birt, J. (2018). <b>[Standard Business Reporting Adoption in Australia – Critically Acclaimed, Box Office Flops: Constructivist and Ecological Rationalities in Information Systems Adoption](https://doi.org/10.3127/ajis.v22i0.1680)</b>. _Australasian Journal of Information Systems_, 22. **(Scimago: Q2; ABDC: A; AJG/ABS: 1)**.
 
-**Perdana, A.**, Robb, A., & Rohde, F. (2018). Does Visualization Matter? The Role of Interactive Data Visualization to Make Sense of Information. _Australasian Journal of Information Systems_, 22. **(Scimago: Q2; ABDC: A; AJG/ABS: 1)**.
+**Perdana, A.**, Robb, A., & Rohde, F. (2018). <b>[Does Visualization Matter? The Role of Interactive Data Visualization to Make Sense of Information](https://doi.org/10.3127/ajis.v22i0.1681)</b>. _Australasian Journal of Information Systems_, 22. **(Scimago: Q2; ABDC: A; AJG/ABS: 1)**.
 
-**Perdana, A.**, Robb, A., & Rohde, F. (2015). XBRL Diffusion in Social Media: Discourses and Community Learning. _Journal of Information Systems_, 29(2): 71-106. **(Scimago: Q1; ABDC: A; AJG/ABS: 1)**.
+**Perdana, A.**, Robb, A., & Rohde, F. (2015). <b>[XBRL Diffusion in Social Media: Discourses and Community Learning](
+https://doi.org/10.2308/isys-50996)</b>. _Journal of Information Systems_, 29(2): 71-106. **(Scimago: Q1; ABDC: A; AJG/ABS: 1)**.
 
-**Perdana, A.**, Robb, A., & Rohde, F. (2015). An Integrative Review and Synthesis of XBRL Research in Academic Journals. _Journal of Information Systems_, 29(1): 115-153. **(Scimago: Q1; ABDC: A; AJG/ABS: 1)**.
+**Perdana, A.**, Robb, A., & Rohde, F. (2015). <b>[An Integrative Review and Synthesis of XBRL Research in Academic Journals](
+https://doi.org/10.2308/isys-50884)</b>. _Journal of Information Systems_, 29(1): 115-153. **(Scimago: Q1; ABDC: A; AJG/ABS: 1)**.
 
-**Perdana, A.**, Robb, A., & Rohde, F (2014). Experimental Research and Multivariate Analysis of Variance (MANOVA) in Information Systems Research - A Meta Review. _International Journal of Business Information Systems_, 16 (3): 247 - 270. **(Scimago: Q3; ABDC: C; AJG/ABS: 1)**.
+**Perdana, A.**, Robb, A., & Rohde, F (2014). <b>[Experimental Research and Multivariate Analysis of Variance (MANOVA) in Information Systems Research - A Meta Review](https://www.inderscience.com/info/inarticle.php?artid=63767)</b>. _International Journal of Business Information Systems_, 16 (3): 247 - 270. **(Scimago: Q3; ABDC: C; AJG/ABS: 1)**.
 
 **Perdana, A.**, & Achjari, D. (2014). Informational Cascades, Types of Technology and Perceptual Factors in E-Commerce Adoption Decision Making. _Alliance Journal of Business Research_, 7(1): 2-12.
 
@@ -40,23 +42,23 @@ Academic Journals
 Teaching Cases
 ----
 
-**Perdana, A.**, & Tan, A. (Forthcoming). Performing Business Risk Assessment with Real-World Dataset and Data Visualisation. _Journal of Information Technology Teaching Cases_. **(AJG/ABS: 1)**.
+**Perdana, A.**, & Tan, A. (Forthcoming). <b>[Performing Business Risk Assessment with Real-World Dataset and Data Visualisation](https://doi.org/10.1177/2043886921993128)</b>. _Journal of Information Technology Teaching Cases_. **(AJG/ABS: 1)**.
 
-Lim, C.Y, **Perdana, A.**, & Wong, S.R. (2021). Pursuing Effectiveness and Efficiency: Data Model for Workforce Scheduling at Alvarino. _Journal of Information Technology Teaching Cases_, 11(1), 14-19. **(AJG/ABS: 1)**
+Lim, C.Y, **Perdana, A.**, & Wong, S.R. (2021). <b>[Pursuing Effectiveness and Efficiency: Data Model for Workforce Scheduling at Alvarino](https://doi.org/10.1177/2043886920935903)</b>. _Journal of Information Technology Teaching Cases_, 11(1), 14-19. **(AJG/ABS: 1)**
 
-**Perdana, A.**, Gaffoor. J., & Lee, H.H. (2020). Getting Data Analytics on Board at the Cage. _Journal of Information Technology Teaching Cases_, 10(1), 29-34. **(AJG/ABS: 1)**.
+**Perdana, A.**, Gaffoor. J., & Lee, H.H. (2020). <b>[Getting Data Analytics on Board at the Cage](https://doi.org/10.1177/2043886919899407)</b>. _Journal of Information Technology Teaching Cases_, 10(1), 29-34. **(AJG/ABS: 1)**.
 
-Wee, T., **Perdana, A.**, Remy, D. (2019). Data Analytics Dilemma at Alpen Hotel. _Journal of Information Technology Teaching Cases_, 9(2), 58-63. **(AJG/ABS: 1)**.
+Wee, T., **Perdana, A.**, Remy, D. (2019). <b>[Data Analytics Dilemma at Alpen Hotel](https://doi.org/10.1177/2043886919870543)</b>. _Journal of Information Technology Teaching Cases_, 9(2), 58-63. **(AJG/ABS: 1)**.
 
 
 Practitioner/Specialist Journals
 ----
 
-Jutasompakorn, P., & **Perdana, A.** (2021). Crowdlending and Credit Models. _Asia-Pacific Research Exchange_, June 2021.
+Jutasompakorn, P., & **Perdana, A.** (2021). <b>[Crowdlending and Credit Models](https://www.arx.cfa/~/media/4FD6BF22CB614C14909BDB8DF77E59BF.ashx)</b>. _Asia-Pacific Research Exchange_, June 2021.
 
-**Perdana, A.**, & Yong, K. (2021). Intelligent Automation. _ISCA Journal_, May, 39-41.
+**Perdana, A.**, & Yong, K. (2021). <b>[Intelligent Automation](https://journal.isca.org.sg/2021/04/29/dons-column-intelligent-automation/pugpig_index.html)</b>. _ISCA Journal_, May, 39-41.
 
-Koh, S.K., **Perdana, A.**, Arisandi, D., & Lee, H.W. (2020). Data Analytics Adoption Among Singapore SMEs. _ISCA Journal_, November, 18-22.
+Koh, S.K., **Perdana, A.**, Arisandi, D., & Lee, H.W. (2020). <b>[Data Analytics Adoption Among Singapore SMEs](https://journal.isca.org.sg/2020/10/27/data-analytics-adoption/pugpig_index.html)</b>. _ISCA Journal_, November, 18-22.
 
 
 Books/Book Chapters
@@ -64,9 +66,9 @@ Books/Book Chapters
 
 Koh, S.K., Lee, H.H., & **Perdana, A.** (Forthcoming). Data Analytics in an Undergraduate Accountancy Programme: The Spaced Retrieval Method. In _Handbook of Big Data and Analytics in Accounting and Auditing_, Tarek Rana, Alan Lowe and Jan Svanberg (Eds). Springer.
 
-**Perdana, A.** (2021). _Automasi Proses Robotik: Konsep dan Aplikasi di Akuntansi_. Google Play Book.
+**Perdana, A.** (2021). <b>[Automasi Proses Robotik: Konsep dan Aplikasi di Akuntansi](https://play.google.com/store/books/details/Arif_Perdana_Automasi_Proses_Robotik_untuk_Akuntan?id=AQMREAAAQBAJ)</b>. Google Play Book.
 
-**Perdana, A. **(2020). _Data Analytics: Keterampilan Teknis Akuntan dan Auditor di Era Digital_. Malang, Indonesia: Madza Media.
+**Perdana, A. **(2020). <b>[Data Analytics: Keterampilan Teknis Akuntan dan Auditor di Era Digital](https://play.google.com/store/books/details/Arif_Perdana_Data_Analytics_Keterampilan_Teknis_Ak?id=GEUEEAAAQBAJ)</b>. Malang, Indonesia: Madza Media.
 
 
 Peer-reviewed Conferences/Workshops
@@ -86,7 +88,7 @@ Lee, W. E., **Perdana, A.**, & Robb, A. (2019). From Enfant Terrible to Problem-
 
 **Perdana, A.**, & Tan, J. (2018) Teaching Visual Analytics in the Accountancy Programme: Contextualizing the Real-world Dataset. _American Accounting Association (AAA) Intensive Data Analytics Summer Workshop I_, Orlando, Florida, United States of America.
 
-Trieu, V-H., Cockroft, S., & **Perdana, A. **(2018). Decision-making Performance in Big Data Era: The Role of Actual Business Intelligence System Use and Affecting External Constraints - Research in Progress. In _European Conference in Information Systems_, Portsmouth, United Kingdom.
+Trieu, V-H., Cockroft, S., & **Perdana, A.** (2018). Decision-making Performance in Big Data Era: The Role of Actual Business Intelligence System Use and Affecting External Constraints - Research in Progress. In _European Conference in Information Systems_, Portsmouth, United Kingdom.
 
 **Perdana, A.**, Robb, A., Balachandran, V., & Rohde, F. (2017). Distributed Ledger Technology (DLT): Its Evolutionary Path and the Road Ahead. In _9th Annual Pre-ICIS Workshop on Accounting Information Systems_, Seoul, South Korea.
 
