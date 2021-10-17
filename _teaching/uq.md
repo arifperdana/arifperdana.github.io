@@ -1,14 +1,14 @@
 ---
 title: "Teaching at UQ Business School, the University of Queensland"
 collection: teaching
-type: "Workshop"
+type: "Teaching"
 permalink: /teaching/uq
 venue: "the Univerrsity of Queensland"
-date: 2012-01-01
+date: 2013-01-01
 location: "Brisbane, Australia"
 ---
 
-I was a teaching assistant at UQ Business School, The University of Queensland from 2013 to 2016. At the University, I teach (taught) the following tutorial classes:
+I was a teaching assistant at UQ Business School, The University of Queensland from 2013 to 2016.
 
 Postgraduate
 ======
