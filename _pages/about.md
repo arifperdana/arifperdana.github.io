@@ -29,4 +29,6 @@ Research Featured in the Media and Institutional Webpages
 
 [![RSM](/images/Media_RSM.jpg)](https://www.rsm.global/singapore/news/majority-smes-yet-adopt-data-analytics-despite-push-digital-transformation)
 
-![SIT](/images/Media_SIT.jpg)]
+![SIT](/images/Media_SIT.jpg)
+<b>[Study Led By SIT Finds Limited Adoption Of Data Analytics Among SMEs In Singapore](https://www.singaporetech.edu.sg/digitalnewsroom/study-led-by-sit-finds-limited-adoption-of-data-analytics-among-smes-in-singapore/)
+<b>[Understanding Crowdlending Diffusion and Investor Behaviour in Asia](https://www.singaporetech.edu.sg/digitalnewsroom/understanding-crowdlending-diffusion-and-investor-behaviour-in-asia/)
