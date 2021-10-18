@@ -14,12 +14,6 @@ Arif has solid experience in teaching information systems and analytics to execu
 
 His research appears in several information systems journals such as Information & Management, Behavior & Information Technology, Journal of Information Systems, and Telematics and informatics. He has presented his research in various workshops and conferences on primary accounting, accounting information systems and mainstream information systems..
 
-Upcoming Event Involed
-======
-
-
-Upcoming Workshop Conducted
-======
 
 Research Featured in the Media and Institutional Webpages
 ======
