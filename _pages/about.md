@@ -24,3 +24,9 @@ Upcoming Workshop Conducted
 Research Featured in the Media and Institutional Webpages
 ======
 [![Busines Time](/images/Media_BT.jpg)](https://www.businesstimes.com.sg/sme/70-of-smes-have-not-adopted-data-analytics-with-most-only-familiar-with-spreadsheets-poll)
+
+[![ISCA](/images/Media_ISCA.jpg)](https://isca.org.sg/resource-library/business-insights/technology/data-analytics-adoption-in-singapore-smes)
+
+[![RSM](/images/Media_RSM.jpg)](https://www.rsm.global/singapore/news/majority-smes-yet-adopt-data-analytics-despite-push-digital-transformation)
+
+
