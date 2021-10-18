@@ -29,4 +29,4 @@ Research Featured in the Media and Institutional Webpages
 
 [![RSM](/images/Media_RSM.jpg)](https://www.rsm.global/singapore/news/majority-smes-yet-adopt-data-analytics-despite-push-digital-transformation)
 
-
+![SIT](/images/Media_SIT.jpg)]
