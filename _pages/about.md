@@ -23,13 +23,21 @@ Upcoming Workshop Conducted
 
 Research Featured in the Media and Institutional Webpages
 ======
-[![Busines Time](/images/Media_BT.jpg)](https://www.businesstimes.com.sg/sme/70-of-smes-have-not-adopted-data-analytics-with-most-only-familiar-with-spreadsheets-poll)
+![Busines Time](/images/Media_BT.jpg)
 
-[![ISCA](/images/Media_ISCA.jpg)](https://isca.org.sg/resource-library/business-insights/technology/data-analytics-adoption-in-singapore-smes)
+![ISCA](/images/Media_ISCA.jpg)
 
-[![RSM](/images/Media_RSM.jpg)](https://www.rsm.global/singapore/news/majority-smes-yet-adopt-data-analytics-despite-push-digital-transformation)
+![RSM](/images/Media_RSM.jpg)
 
 ![SIT](/images/Media_SIT.jpg)
+
+Further Links:
+<br>
+<b>[70% of SMEs have not adopted data analytics, with most only familiar with spreadsheets: poll](https://www.businesstimes.com.sg/sme/70-of-smes-have-not-adopted-data-analytics-with-most-only-familiar-with-spreadsheets-poll)</b>
+<br>
+<b>[Data Analytics Adoption in Singapore SMEs](https://isca.org.sg/resource-library/business-insights/technology/data-analytics-adoption-in-singapore-smes)</b>
+<br>
+<b>[Majority of SMEs Yet to Adopt Data Analytics Despite the Push for Digital Transformation](https://www.rsm.global/singapore/news/majority-smes-yet-adopt-data-analytics-despite-push-digital-transformation)</b>
 <br>
 <b>[Study Led By SIT Finds Limited Adoption Of Data Analytics Among SMEs In Singapore](https://www.singaporetech.edu.sg/digitalnewsroom/study-led-by-sit-finds-limited-adoption-of-data-analytics-among-smes-in-singapore/)
 <br>
