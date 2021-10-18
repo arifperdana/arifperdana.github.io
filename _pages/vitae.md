@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<font color="#800000">Academic experience</font> 
+<font color="#800000"><font size = 12><font style = bold>Academic experience</font> 
 ======
 * Associate Professor, Data Science Department, Faculty of Information Technology, Monash University, Indonesia, November 2021 to Present
 * Assistant Professor, Design and Specialised Business Cluster, Singapore Institute of Technology (SIT), April 2017 to November 2021, Singapore.
