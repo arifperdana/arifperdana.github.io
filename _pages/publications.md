@@ -12,7 +12,7 @@ Please find the full list of my papers on [Google Scholar](https://scholar.googl
 Academic Journals
 ----
 
-* **Perdana, A**., & Arisandi, D. (Forthcoming). Automation at Truveil: Business Process Understanding and Analysis in RPA Implementation. Journal of Emerging Technologies in Accounting. **(ABDC: B; Scimago: Q2)**.
+* **Perdana, A**., & Arisandi, D. (Forthcoming). Automation at Truveil: Business Process Understanding and Analysis in RPA Implementation. _Journal of Emerging Technologies in Accounting_. **(ABDC: B; Scimago: Q2)**.
 
 * **Perdana, A**., Lee, H-H., & Jutasompakorn, P. (Forthcoming) Crowdlending in Asia: Lessons from its Chequered History. _Pacific Asia Journal of the Association for Information Systems_. **(ABDC: B; AJG/ABS: 2; JIF: 2)**.
 
