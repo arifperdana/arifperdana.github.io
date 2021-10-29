@@ -140,5 +140,3 @@ Manuscript Under Review
 * **Perdana, A.**, Lee, H-H., Arisandi, D., & Koh, S-K. Embracing Data Analytics in Small and Mid-size Enterprises: A Multilevel Framework of Technological Acceptance. Submitted to a journal.
 
 * **Perdana, A**. Harnessing Data and Embracing Digital Strategy: Digital Transformation at Zalora. 1st round review.
-
-* Jutasompakorn, P., & **Perdana, A.**, & Balachandran, V. Enhancing Decision Making with Machine Learning: A Tale of Aurora Crowdlending Platform. Submitted to a journal
