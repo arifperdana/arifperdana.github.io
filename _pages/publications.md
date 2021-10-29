@@ -12,8 +12,6 @@ Please find the full list of my papers on [Google Scholar](https://scholar.googl
 Academic Journals
 ----
 
-* **Perdana, A**., & Arisandi, D. (Forthcoming). Automation at Truveil: Business Process Understanding and Analysis in RPA Implementation. _Journal of Emerging Technologies in Accounting_. **(ABDC: B; Scimago: Q2)**.
-
 * **Perdana, A**., Lee, H-H., & Jutasompakorn, P. (Forthcoming) Crowdlending in Asia: Lessons from its Chequered History. _Pacific Asia Journal of the Association for Information Systems_. **(ABDC: B; AJG/ABS: 2; JIF: 2)**.
 
 * **Perdana, A**., Lee, W.E., & Robb, A. (2021). <b> [From Enfant Terrible to Problem-Solver? Tracing the Competing Discourse to Explain Blockchain-Related Technologies’ Diffusion](https://doi.org/10.1016/j.tele.2021.101662)</b>. _Telematics and Informatics_, 63, 101662. **(Scimago: Q1; ABDC: C)**.
@@ -43,6 +41,10 @@ https://doi.org/10.2308/isys-50884)</b>. _Journal of Information Systems_, 29(1)
 
 Teaching Cases
 ----
+
+* **Perdana, A**., & Arisandi, D. (Forthcoming). Automation at Truveil: Business Process Understanding and Analysis in RPA Implementation. _Journal of Emerging Technologies in Accounting_. **(ABDC: B; Scimago: Q2)**.
+
+* Jutasompakorn, P., & **Perdana, A**., & Balachandran, V. (Forthcoming). Enhancing Decision Making with Machine Learning: The case of Aurora Crowdlending Platform. _Journal of Information Technology Teaching Cases_. **(AJG/ABS: 1)**
 
 * **Perdana, A.**, & Tan, A. (Forthcoming). <b>[Performing Business Risk Assessment with Real-World Dataset and Data Visualisation](https://doi.org/10.1177/2043886921993128)</b>. _Journal of Information Technology Teaching Cases_. **(AJG/ABS: 1)**.
 
