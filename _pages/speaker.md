@@ -9,7 +9,7 @@ author_profile: true
 
 Invited Speaker
 ----
-* Speaker: **Big Data and Artificial Intelligence: Opportunities and Challenges for Accountancy Profession**. _Institut Teknologi Harapan Bangsa, Indonesia_, 19 November 2021.
+
 * Speaker: **Digital Transformation in Finance Industry, and Digital Finance Research**, _International Lecture Series - BINUS University, Indonesia_, 1 November 2021.
 * Workshop Instructor: **Data Analytics in Accounting Domain**, _Fakultas Ekonomi dan Bisnis, Universitas Muhammadiyah Yogyakarta, Indonesia_, 30-31 August 2021.
 * Workshop Instructor: **Robotic Process Automation for Accountants**, _PKF Singapore International, Singapore_, 12-13 August 2021.
