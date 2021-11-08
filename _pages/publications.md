@@ -12,7 +12,9 @@ Please find the full list of my papers on [Google Scholar](https://scholar.googl
 Academic Journals
 ----
 
-* **Perdana, A**., Lee, H-H., & Jutasompakorn, P. (Forthcoming) Crowdlending in Asia: Lessons from its Chequered History. _Pacific Asia Journal of the Association for Information Systems_. **(ABDC: B; AJG/ABS: 2; JIF: 2)**.
+* **Perdana, A**., & Mokhtar, I.A. (Forthcoming). Seniors’ Adoption of Digital Devices and Virtual Event Platforms in Singapore during Covid-19. _Technology in Society_. **(Scimago: Q1, ABDC: B)**.
+
+* **Perdana, A**., Lee, H-H., & Jutasompakorn, P. (Forthcoming). Crowdlending in Asia: Lessons from its Chequered History. _Pacific Asia Journal of the Association for Information Systems_. **(ABDC: B; AJG/ABS: 2; JIF: 2)**.
 
 * **Perdana, A**., Lee, W.E., & Robb, A. (2021). <b> [From Enfant Terrible to Problem-Solver? Tracing the Competing Discourse to Explain Blockchain-Related Technologies’ Diffusion](https://doi.org/10.1016/j.tele.2021.101662)</b>. _Telematics and Informatics_, 63, 101662. **(Scimago: Q1; ABDC: C)**.
 
@@ -130,8 +132,6 @@ Manuscript Under Review
 ----
 
 * Lee, W.E., & **Perdana, A.** Effects of Experiential Service Learning in Improving Community Engagement Perception, Sustainability Awareness, and Data Analytics Competency. 1st round review in a journal.
-
-* **Perdana, A.**, & Mokhtar, I. Technology for Seniors’ Social Wellbeing: Seniors and Virtual Event Platforms. 1st round review.
 
 * Vivekanand, T. S, Bharathi. S.V.K., **Perdana, A.**, & Venkatesh V.G, Shi, P. Farm (Sea) to Plate: An Exploratory Study on the Applicability of Blockchain Applications in Sea-Food Supply Chain. Submitted to a journal.
 
