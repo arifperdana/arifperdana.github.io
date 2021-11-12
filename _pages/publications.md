@@ -44,9 +44,9 @@ https://doi.org/10.2308/isys-50884)</b>. _Journal of Information Systems_, 29(1)
 Teaching Cases
 ----
 
-* **Perdana, A**., & Arisandi, D. (Forthcoming). Automation at Truveil: Business Process Understanding and Analysis in RPA Implementation. _Journal of Emerging Technologies in Accounting_. **(ABDC: B; Scimago: Q2)**.
-
 * Jutasompakorn, P., & **Perdana, A**., & Balachandran, V. (Forthcoming). Enhancing Decision Making with Machine Learning: The case of Aurora Crowdlending Platform. _Journal of Information Technology Teaching Cases_. **(AJG/ABS: 1)**
+
+* **Perdana, A**., & Arisandi, D. (Forthcoming). <b>[Automation at Truveil: Business Process Understanding and Analysis in RPA Implementation](https://doi.org/10.2308/JETA-2021-025)</b>. _Journal of Emerging Technologies in Accounting_. **(ABDC: B; Scimago: Q2)**.
 
 * **Perdana, A.**, & Tan, A. (Forthcoming). <b>[Performing Business Risk Assessment with Real-World Dataset and Data Visualisation](https://doi.org/10.1177/2043886921993128)</b>. _Journal of Information Technology Teaching Cases_. **(AJG/ABS: 1)**.
 
