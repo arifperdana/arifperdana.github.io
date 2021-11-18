@@ -14,7 +14,7 @@ Academic Journals
 
 * **Perdana, A**., Lee, H-H., & Jutasompakorn, P. (Forthcoming). Crowdlending in Asia: Lessons from its Chequered History. _Pacific Asia Journal of the Association for Information Systems_. **(ABDC: B; AJG/ABS: 2; JIF: 2)**.
 
-* * **Perdana, A**., & Mokhtar, I.A. (2022). <b> [Seniors’ Adoption of Digital Devices and Virtual Event Platforms in Singapore during Covid-19](https://doi.org/10.1016/j.techsoc.2021.101817)</b>. _Technology in Society_, 68, 101817. **(Scimago: Q1, ABDC: B)**.
+* **Perdana, A**., & Mokhtar, I.A. (2022). <b> [Seniors’ Adoption of Digital Devices and Virtual Event Platforms in Singapore during Covid-19](https://doi.org/10.1016/j.techsoc.2021.101817)</b>. _Technology in Society_, 68, 101817. **(Scimago: Q1, ABDC: B)**.
 
 * **Perdana, A**., Lee, W.E., & Robb, A. (2021). <b> [From Enfant Terrible to Problem-Solver? Tracing the Competing Discourse to Explain Blockchain-Related Technologies’ Diffusion](https://doi.org/10.1016/j.tele.2021.101662)</b>. _Telematics and Informatics_, 63, 101662. **(Scimago: Q1; ABDC: C)**.
 
