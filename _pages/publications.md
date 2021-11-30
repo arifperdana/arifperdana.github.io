@@ -12,6 +12,8 @@ Please find the full list of my papers on [Google Scholar](https://scholar.googl
 Academic Journals
 ----
 
+* **Perdana, A**., Lee, H-H., SzeKee, K., Arisandi, D. (Forthcoming). Data Analytics in Small and Mid-size Enterprises: Enablers and Inhibitors for Business Value and Firm Performance. _International Journal of Accounting Information Systems_. **(ABDC: A; Scimago: Q1; AJG: 2)**.
+
 * **Perdana, A**., Lee, H-H., & Jutasompakorn, P. (Forthcoming). Crowdlending in Asia: Lessons from its Chequered History. _Pacific Asia Journal of the Association for Information Systems_. **(ABDC: B; AJG/ABS: 2; JIF: 2)**.
 
 * **Perdana, A**., & Mokhtar, I.A. (2022). <b> [Seniors’ Adoption of Digital Devices and Virtual Event Platforms in Singapore during Covid-19](https://doi.org/10.1016/j.techsoc.2021.101817)</b>. _Technology in Society_, 68, 101817. **(Scimago: Q1, ABDC: B)**.
