@@ -121,7 +121,7 @@ Newspapers/Magazines
 ----
 
 
-* **Perdana, A.** (2017). <b>[Remitansi dan Layanan Keuangan Digital](https://tirto.id/remitansi-dan-layanan-keuangan-digital-coov)</b>.  _Tirto, Indonesia.
+* **Perdana, A.** (2017). <b>[Remitansi dan Layanan Keuangan Digital](https://tirto.id/remitansi-dan-layanan-keuangan-digital-coov)</b>.  _Tirto_, Indonesia.
 
 * **Perdana, A.** (2015). Fase Baru Sistem Informasi Emiten.  _Bisnis Indonesia_, Indonesia.
 
