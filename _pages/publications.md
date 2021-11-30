@@ -117,6 +117,14 @@ Peer-reviewed Conferences/Workshops
 * **Perdana, A.**, & Achjari, D. (2011). Informational Cascades, Type of Technology and Adoption of E-Commerce: An Experimental Study. In _the 2nd International Research Symposium in Service Management_, Yogyakarta, Indonesia.
 
 
+Newspapers/Magazines
+----
+
+
+* **Perdana, A.** (2017). <b>[Remitansi dan Layanan Keuangan Digital](https://tirto.id/remitansi-dan-layanan-keuangan-digital-coov)</b>.  _Tirto, Indonesia.
+
+* **Perdana, A.** (2015). Fase Baru Sistem Informasi Emiten.  _Bisnis Indonesia_, Indonesia.
+
 
 Non-peer reviewed Conferences
 ----
