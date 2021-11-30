@@ -137,8 +137,6 @@ Manuscript Under Review
 
 * Vivekanand, T. S, Bharathi. S.V.K., **Perdana, A.**, & Venkatesh V.G, Shi, P. Farm (Sea) to Plate: An Exploratory Study on the Applicability of Blockchain Applications in Sea-Food Supply Chain. Submitted to a journal.
 
-* **Perdana, A.**, Lee, H-H., Arisandi, D., & Koh, S-K. Data Analytics Implementation in Small and Mid-size Enterprises: Enablers and Inhibitors for Business Value and Firm Performance. 1st round review.
-
 * **Perdana, A.**, Lee, H-H., Arisandi, D., & Koh, S-K. Embracing Data Analytics in Small and Mid-size Enterprises: A Multilevel Framework of Technological Acceptance. Submitted to a journal.
 
 * **Perdana, A**. Harnessing Data and Embracing Digital Strategy: Digital Transformation at Zalora. 1st round review.
