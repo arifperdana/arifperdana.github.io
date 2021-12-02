@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Publications and Work in Progress"
 permalink: /publications/
 author_profile: true
 ---
@@ -148,3 +148,19 @@ Manuscript Under Review
 * **Perdana, A.**, Lee, H-H., Arisandi, D., & Koh, S-K. Embracing Data Analytics in Small and Mid-size Enterprises: A Multilevel Framework of Technological Acceptance. Submitted to a journal.
 
 * **Perdana, A**. Harnessing Data and Embracing Digital Strategy: Digital Transformation at Zalora. 1st round review.
+
+
+Work in Progress
+----
+
+* Liew, A., O'Leary, D., **Perdana, A**., Wang, T. 2021 International Conference of the Journal of Information Systems Panel Discussion on Digital Transformation in Accounting and Auditing. In preparation for journal submission.
+
+* **Perdana, A**., Lee, W.E., Pan, G., Sun, S.P., & Lim, C. Trust in Cryptocurrencies: Economic, Social, Technological and Knowledge Influence. In preparation for journal submission
+
+* **Perdana, A**. Championing Trust: The Interplay of Cognitive and Technology to Inspire Trust and Usage Intention of Crowdlending Platform. In preparation for journal submission.
+
+* Bharathi, S.V.K., Kulkarni, M.S., **Perdana, A**. The Synergy Between Financial Technologies and Financial Inclusion: What We Know and Where We Should Be Heading? In preparation forjournal submission.
+
+* Kannan, A.K., Bharathi, S.V.K., Kulkarni, M.S., **Perdana, A**. Stock Price Prediction with Time Series Analysis, Machine Learning and Deep Learning Techniques. In preparation forjournal submission.
+
+* **Perdana, A**., Lee, W.E. Automated Decision Making and Digital Discrimination: Risk Mitigation Strategies. In preparation for journal submission.
