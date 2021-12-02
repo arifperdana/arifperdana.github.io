@@ -159,8 +159,8 @@ Work in Progress
 
 * **Perdana, A**. Championing Trust: The Interplay of Cognitive and Technology to Inspire Trust and Usage Intention of Crowdlending Platform. In preparation for journal submission.
 
-* Bharathi, S.V.K., Kulkarni, M.S., **Perdana, A**. The Synergy Between Financial Technologies and Financial Inclusion: What We Know and Where We Should Be Heading? In preparation forjournal submission.
+* Bharathi, S.V.K., Kulkarni, M.S., **Perdana, A**. The Synergy Between Financial Technologies and Financial Inclusion: What We Know and Where We Should Be Heading? In preparation for journal submission.
 
-* Kannan, A.K., Bharathi, S.V.K., Kulkarni, M.S., **Perdana, A**. Stock Price Prediction with Time Series Analysis, Machine Learning and Deep Learning Techniques. In preparation forjournal submission.
+* Kannan, A.K., Bharathi, S.V.K., Kulkarni, M.S., **Perdana, A**. Stock Price Prediction with Time Series Analysis, Machine Learning and Deep Learning Techniques. In preparation for journal submission.
 
 * **Perdana, A**., Lee, W.E. Automated Decision Making and Digital Discrimination: Risk Mitigation Strategies. In preparation for journal submission.
