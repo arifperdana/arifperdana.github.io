@@ -143,7 +143,7 @@ Manuscript Under Review
 
 * Lee, W.E., & **Perdana, A.** Effects of Experiential Service Learning in Improving Community Engagement Perception, Sustainability Awareness, and Data Analytics Competency. 1st round review in a journal.
 
-* Vivekanand, T. S, Bharathi. S.V.K., **Perdana, A.**, & Venkatesh V.G, Shi, P. Farm (Sea) to Plate: An Exploratory Study on the Applicability of Blockchain Applications in Sea-Food Supply Chain. Submitted to a journal.
+* Vivekanand, T. S, Bharathi. S.V.K., **Perdana, A.**, Venkatesh V.G, & Shi, P. Farm (Sea) to Plate: An Exploratory Study on the Applicability of Blockchain Applications in Sea-Food Supply Chain. Submitted to a journal.
 
 * **Perdana, A.**, Lee, H-H., Arisandi, D., & Koh, S-K. Embracing Data Analytics in Small and Mid-size Enterprises: A Multilevel Framework of Technological Acceptance. Submitted to a journal.
 
