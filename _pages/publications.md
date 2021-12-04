@@ -66,7 +66,7 @@ Practitioner/Specialist Journals
 
 * **Perdana, A.**, & Yong, K. (2021). <b>[Intelligent Automation](https://journal.isca.org.sg/2021/04/29/dons-column-intelligent-automation/pugpig_index.html)</b>. _ISCA Journal_, May, 39-41.
 
-* Koh, S.K., **Perdana, A.**, Arisandi, D., & Lee, H.W. (2020). <b>[Data Analytics Adoption Among Singapore SMEs](https://journal.isca.org.sg/2020/10/27/data-analytics-adoption/pugpig_index.html)</b>. _ISCA Journal_, November, 18-22.
+* Koh, S.K., **Perdana, A.**, Arisandi, D., & Lee, H.H. (2020). <b>[Data Analytics Adoption Among Singapore SMEs](https://journal.isca.org.sg/2020/10/27/data-analytics-adoption/pugpig_index.html)</b>. _ISCA Journal_, November, 18-22.
 
 
 Books/Book Chapters
