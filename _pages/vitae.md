@@ -11,7 +11,7 @@ redirect_from:
 
 Academic experience
 ======
-* Associate Professor, Data Science Department, Faculty of Information Technology, Monash University, Indonesia, November 2021 to Present
+* Associate Professor, Data Science Department, Faculty of Information Technology, Monash University, November 2021 to Present
 * Assistant Professor, Design and Specialised Business Cluster, Singapore Institute of Technology (SIT), April 2017 to November 2021, Singapore.
 * Visiting Professor, School of Business and Social Sciences, Aarhus University, Summer University Program, 27 July – 3 August 2019, Denmark.
 * Adjunct Faculty/Tutor, UQ Business School, the University of Queensland, February 2013 – June 2016, Brisbane, Queensland, Australia.
