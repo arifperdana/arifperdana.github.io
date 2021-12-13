@@ -72,7 +72,7 @@ Academic Services
 * Reviewer of **the CASE Journal**, 2020
 * Reviewer of **the 11th University of Waterloo Centre for Information Integrity and Information Systems Assurance Symposium**, 2019.
 * Reviewer of **the International Conference on Information Systems (ICIS)**, 2017, 2019, 2021
-* Reviewer of **the International Journal of Accounting Information Systems**, 2017, 2018, 2019, 2020.
+* Reviewer of **the International Journal of Accounting Information Systems**, 2017, 2018, 2019, 2020, 2021
 * Reviewer of **Asia Pacific Journal of Information Systems**, 2019, 2021.
 * Reviewer of the Special Issue of **the International Journal of Accounting Information Systems** titled 'Blockchain: Using Accounting Skepticism to See Beyond the Hype', 2019.
 * Big Accounting Data mini-track co-chair & Reviewer. **American Conference on Information Systems**, Cancun, Mexico, 2019.
