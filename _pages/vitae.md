@@ -61,32 +61,32 @@ Honors/Awards
 Academic Services
 ======
 
-* Reviewer of IEEE Transaction on Engineering Management, 2021.
-* Reviewer of New Media and Society, 2021.
-* Reviewer of Accounting Horizons, 2021.
-* Associate Editor, Enterprise Systems and Business Process Management, Pacific Asia Conference on Information Systems, Dubai, UAE, 2021
-* Reviewer of Pacific Asia Journal of the Association for Information Systems, 2020, 2021.
-* Reviewer of Information & Management, 2020, 2021
-* Scientific Committee Member. International Conference of the Journal of Information Systems, 2021.
-* Reviewer of Journal of Information Systems, 2019, 2020, 2021.
-* Reviewer The CASE Journal, 2020
-* Reviewer of the 11th University of Waterloo Centre for Information Integrity and Information Systems Assurance Symposium, 2019.
-* Reviewer of the International Conference on Information Systems (ICIS), 2017, 2019, 2021
-* Reviewer of the International Journal of Accounting Information Systems, 2017, 2018, 2019, 2020.
-* Reviewer of Asia Pacific Journal of Information Systems, 2019, 2021.
-* Reviewer of the Special Issue of the International Journal of Accounting Information Systems titled 'Blockchain: Using Accounting Skepticism to See Beyond the Hype', 2019.
-* Big Accounting Data mini-track co-chair & Reviewer. American Conference on Information Systems, Cancun, Mexico, 2019.
-* Associate Editor, Transforming Society with Digital Innovation, Pacific Asia Conference on Information Systems, Xian, China, 2019.
-* Reviewer of SIT Advancement for Learning and Teaching Grant, 2017, 2018.
-* Reviewer of the Special Issue of Journal of Information Systems titled 'Implications of Cybersecurity on Accounting Information', 2018
-* Reviewer of the American Accounting Association (AAA) Annual Meeting, San Diego, USA, August 5-9, 2017.
-* Review Coordinator of the 22nd American Conference on Information Systems (AMCIS), San Diego, California, USA, August 11-13, 2016.
-* Reviewer of the American Accounting Association (AAA) Annual Meeting and Conference on Teaching and Learning in Accounting, New York, USA, August 6-10, 2016.
-* Reviewer of the 19th Accounting National Symposium (Simposium Nasional Akuntansi), Bandar Lampung, Indonesia, August 24-27, 2016.
-* Reviewer of the Australasian Journal of Information Systems, 2014, 2015.
-* Reviewer for the 5th Annual Pre-ICIS Workshop on Accounting Information Systems, 2013, Milan, Italy, 15-18 December 2013.
-* Reviewer (Program Committee) for the Australasian Conference on Information Systems (ACIS), Business Intelligence track, Melbourne, Australia, December 4-6, 2013.
-* Reviewer of Pacific Conference on Information Systems (PACIS), Doctoral Consortium, Jeju Island, South Korea, June 18-22, 2013.
+* Reviewer of **IEEE Transaction on Engineering Management**, 2021.
+* Reviewer of **New Media and Society**, 2021.
+* Reviewer of **Accounting Horizons**, 2021.
+* Associate Editor, Enterprise Systems and Business Process Management, **Pacific Asia Conference on Information Systems**, Dubai, UAE, 2021
+* Reviewer of **Pacific Asia Journal of the Association for Information Systems**, 2020, 2021.
+* Reviewer of **Information & Management**, 2020, 2021
+* Scientific Committee Member. **International Conference of the Journal of Information Systems**, 2021.
+* Reviewer of **Journal of Information Systems**, 2019, 2020, 2021.
+* Reviewer of **the CASE Journal**, 2020
+* Reviewer of **the 11th University of Waterloo Centre for Information Integrity and Information Systems Assurance Symposium**, 2019.
+* Reviewer of **the International Conference on Information Systems (ICIS)**, 2017, 2019, 2021
+* Reviewer of **the International Journal of Accounting Information Systems**, 2017, 2018, 2019, 2020.
+* Reviewer of **Asia Pacific Journal of Information Systems**, 2019, 2021.
+* Reviewer of the Special Issue of **the International Journal of Accounting Information Systems** titled 'Blockchain: Using Accounting Skepticism to See Beyond the Hype', 2019.
+* Big Accounting Data mini-track co-chair & Reviewer. **American Conference on Information Systems**, Cancun, Mexico, 2019.
+* Associate Editor, Transforming Society with Digital Innovation, **Pacific Asia Conference on Information Systems**, Xian, China, 2019.
+* Reviewer of **SIT Advancement for Learning and Teaching Grant**, 2017, 2018.
+* Reviewer of **the Special Issue of Journal of Information Systems** titled 'Implications of Cybersecurity on Accounting Information', 2018
+* Reviewer of **the American Accounting Association (AAA) Annual Meeting**, San Diego, USA, August 5-9, 2017.
+* Review Coordinator of **the 22nd American Conference on Information Systems (AMCIS)**, San Diego, California, USA, August 11-13, 2016.
+* Reviewer of **the American Accounting Association (AAA) Annual Meeting and Conference on Teaching and Learning in Accounting**, New York, USA, August 6-10, 2016.
+* Reviewer of **the 19th Accounting National Symposium (Simposium Nasional Akuntansi)**, Bandar Lampung, Indonesia, August 24-27, 2016.
+* Reviewer of **the Australasian Journal of Information Systems**, 2014, 2015.
+* Reviewer for **the 5th Annual Pre-ICIS Workshop on Accounting Information Systems**, 2013, Milan, Italy, 15-18 December 2013.
+* Reviewer (Program Committee) for **the Australasian Conference on Information Systems (ACIS)**, Business Intelligence track, Melbourne, Australia, December 4-6, 2013.
+* Reviewer of **Pacific Asia Conference on Information Systems** (PACIS), Doctoral Consortium, Jeju Island, South Korea, June 18-22, 2013.
 
 
 Technical skills
