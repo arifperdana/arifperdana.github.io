@@ -14,6 +14,19 @@ Arif has solid experience in teaching information systems and analytics to execu
 
 His research appears in several information systems journals such as Information & Management, Behavior & Information Technology, Journal of Information Systems, and Telematics and informatics. He has presented his research in various workshops and conferences on primary accounting, accounting information systems and mainstream information systems..
 
+Call for Book Chapters
+======
+We invite colleagues that are interested in submitting their articles to book chapter: **Digital Transformation in Accounting and Auditing**.
+
+Editors:
+
+[Associate Professor Tawei (David) Wang (Depaul University)](https://business.depaul.edu/faculty/faculty-a-z/Pages/david-wang.aspx)
+
+Associate Professor Arif Perdana (Monash University).
+
+Publisher: Palgrave Macmillan
+
+Click this [PDF](https://38391a20-5290-47cc-b234-f6dcc4660d6d.usrfiles.com/ugd/38391a_08d77746e488455f9599c5e2b9e338bb.pdf) to see the detail.
 
 Research Featured in the Media and Institutional Webpages
 ======
