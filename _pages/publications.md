@@ -121,7 +121,7 @@ Newspapers/Magazines
 ----
 
 
-* **Perdana, A.** (2021). <b>[Dalam kebocoran big data mengapa faktor manusia kerap terlupakan](https://theconversation.com/dalam-kebocoran-big-data-mengapa-faktor-manusia-kerap-terlupakan-172870)</b>.  _Tirto_, Indonesia.
+* **Perdana, A.** (2021). <b>[Dalam kebocoran big data mengapa faktor manusia kerap terlupakan](https://theconversation.com/dalam-kebocoran-big-data-mengapa-faktor-manusia-kerap-terlupakan-172870)</b>.  _The Conversation_, Indonesia.
 
 * **Perdana, A.** (2017). <b>[Remitansi dan Layanan Keuangan Digital](https://tirto.id/remitansi-dan-layanan-keuangan-digital-coov)</b>.  _Tirto_, Indonesia.
 
