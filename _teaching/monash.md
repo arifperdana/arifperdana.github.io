@@ -1,5 +1,5 @@
 ---
-title: "Teaching at Monash University, Indonesia"
+title: "Teaching at Monash University"
 collection: teaching
 type: "Teaching"
 permalink: /teaching/monash
