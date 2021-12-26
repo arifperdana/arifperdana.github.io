@@ -170,6 +170,6 @@ Work in Progress
 
 * **Perdana, A**., & Wang, T. (Editors). Digital Transformation in Accounting and Auditing. Expected to be published by Palgrave MacMillan by Summer 2023.
 
-* **Perdana, A**., & Chu, M.K. Accounting Assessment Before and During COVID-19. In preparation for journal submission.
+* Chu, M.K., & **Perdana, A**. Accounting Assessment Before and During COVID-19. In preparation for journal submission.
 
 * **Perdana, A**., Lee, W.E., Pan, G., Sun, S.P., & Lim, C.Y. Ethics, Cultural Dimension and Trust in Cryptocurrency Use. In preparation for journal submission.
