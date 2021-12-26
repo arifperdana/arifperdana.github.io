@@ -5,7 +5,7 @@ type: "Teaching"
 permalink: /teaching/monash
 venue: "Monash University"
 date: 2021-01-01
-location: "Tangerang, Indonesia"
+location: "Monash University"
 ---
 
 I am an Associate Professor for Data Science Programme at Monash University, from 2021 to Present.
