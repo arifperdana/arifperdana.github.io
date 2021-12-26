@@ -8,7 +8,7 @@ date: 2021-01-01
 location: "Tangerang, Indonesia"
 ---
 
-I am an Associate Professor for Data Science Programme at Monash University, Indonesia, from 2021 to Present.
+I am an Associate Professor for Data Science Programme at Monash University, from 2021 to Present.
 
 Courses Taught
 ======
