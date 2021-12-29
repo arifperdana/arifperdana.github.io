@@ -12,11 +12,11 @@ Please find the full list of my papers on [Google Scholar](https://scholar.googl
 Academic Journals
 ----
 
-* **Perdana, A**., Lee, H-H., Koh, S-K., & Arisandi, D. (Forthcoming). Data Analytics in Small and Mid-size Enterprises: Enablers and Inhibitors for Business Value and Firm Performance. _International Journal of Accounting Information Systems_. **(ABDC: A; SJR: Q1; AJG: 2)**.
-
-* **Perdana, A**., Lee, H-H., & Jutasompakorn, P. (Forthcoming). Crowdlending in Asia: Lessons from its Chequered History. _Pacific Asia Journal of the Association for Information Systems_. **(ABDC: B; AJG/ABS: 2; JIF: 2)**.
+* **Perdana, A**., Lee, H-H., Koh, S-K., & Arisandi, D. (Forthcoming). <b> [Data Analytics in Small and Mid-size Enterprises: Enablers and Inhibitors for Business Value and Firm Performance.](https://doi.org/10.1016/j.accinf.2021.100547)</b> _International Journal of Accounting Information Systems_. **(ABDC: A; SJR: Q1; AJG: 2)**.
 
 * **Perdana, A**., & Mokhtar, I.A. (2022). <b> [Seniors’ Adoption of Digital Devices and Virtual Event Platforms in Singapore during Covid-19](https://doi.org/10.1016/j.techsoc.2021.101817)</b>. _Technology in Society_, 68, 101817. **(SJR: Q1, ABDC: B)**.
+
+* **Perdana, A**., Lee, H-H., & Jutasompakorn, P. (2021). <b> [Crowdlending in Asia: Lessons from its Chequered History](https://aisel.aisnet.org/pajais/vol13/iss4/4/)</b> . _Pacific Asia Journal of the Association for Information Systems_,13(4), 97-130. **(ABDC: B; AJG/ABS: 2; JIF: 2)**.
 
 * **Perdana, A**., Lee, W.E., & Robb, A. (2021). <b> [From Enfant Terrible to Problem-Solver? Tracing the Competing Discourse to Explain Blockchain-Related Technologies’ Diffusion](https://doi.org/10.1016/j.tele.2021.101662)</b>. _Telematics and Informatics_, 63, 101662. **(SJR: Q1; ABDC: C)**.
 
