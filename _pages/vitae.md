@@ -61,12 +61,13 @@ Honors/Awards
 Academic Services
 ======
 
+* Reviewer of **PLoS ONE**, 2022.
+* Reviewer of **Information & Management**, 2020, 2021, 2022.
 * Reviewer of **IEEE Transaction on Engineering Management**, 2021.
 * Reviewer of **New Media and Society**, 2021.
 * Reviewer of **Accounting Horizons**, 2021.
 * Associate Editor, Enterprise Systems and Business Process Management, **Pacific Asia Conference on Information Systems**, Dubai, UAE, 2021
 * Reviewer of **Pacific Asia Journal of the Association for Information Systems**, 2020, 2021.
-* Reviewer of **Information & Management**, 2020, 2021
 * Scientific Committee Member. **International Conference of the Journal of Information Systems**, 2021.
 * Reviewer of **Journal of Information Systems**, 2019, 2020, 2021.
 * Reviewer of **the CASE Journal**, 2020
