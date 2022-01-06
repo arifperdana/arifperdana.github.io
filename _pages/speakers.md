@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "Speakers"
+title: "Talks"
 permalink: /speakers/
 author_profile: true
 ---
 
 
 
-Invited Speaker
+Invited Talks
 ----
 
 * Moderator: **Digital Transformation in the Company - Necessary or Overrated - (with Herman Widjaja/SVP Engineering Tokopedia as a speaker)**, _Monash Alumni Sharing_, 15 November 2021.
