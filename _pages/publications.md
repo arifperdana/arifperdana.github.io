@@ -151,12 +151,16 @@ Manuscript Under Review
 
 * **Perdana, A.**, Lee, H-H., Arisandi, D., & Koh, S-K. Embracing Data Analytics in Small and Mid-size Enterprises: A Multilevel Framework of Technological Acceptance. Submitted to a journal.
 
+* **Perdana, A**., Lee, W.E. Automated Decision Making and Digital Discrimination: Risk Mitigation Strategies. In preparation for journal submission.
+
+* Chu, M.K., & **Perdana, A**. Accounting Assessment Before and During COVID-19. In preparation for journal submission.
+
+* Liew, A., O'Leary, D., **Perdana, A**., Wang, T. 2021 International Conference of the Journal of Information Systems Panel Discussion on Digital Transformation in Accounting and Auditing. In preparation for journal submission.
+
 
 
 Work in Progress
 ----
-
-* Liew, A., O'Leary, D., **Perdana, A**., Wang, T. 2021 International Conference of the Journal of Information Systems Panel Discussion on Digital Transformation in Accounting and Auditing. In preparation for journal submission.
 
 * **Perdana, A**., & Wang, T. Harnessing Data and Embracing Digital Strategy: Digital Transformation at Zalora. In preparation for journal submission.
 
@@ -168,10 +172,6 @@ Work in Progress
 
 * Kannan, A.K., Bharathi, S.V.K., Kulkarni, M.S., **Perdana, A**. Stock Price Prediction with Time Series Analysis, Machine Learning and Deep Learning Techniques. In preparation for journal submission.
 
-* **Perdana, A**., Lee, W.E. Automated Decision Making and Digital Discrimination: Risk Mitigation Strategies. In preparation for journal submission.
-
 * **Perdana, A**., & Wang, T. (Editors). Digital Transformation in Accounting and Auditing. Expected to be published by Palgrave MacMillan by Summer 2023.
-
-* Chu, M.K., & **Perdana, A**. Accounting Assessment Before and During COVID-19. In preparation for journal submission.
 
 * **Perdana, A**., Lee, W.E., Pan, G., Sun, S.P., & Lim, C.Y. Ethics, Cultural Dimension and Trust in Cryptocurrency Use. In preparation for journal submission.
