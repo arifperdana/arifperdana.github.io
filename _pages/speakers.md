@@ -10,6 +10,7 @@ author_profile: true
 Invited Talks
 ----
 
+* Speaker: **Performing Exploratory Data Analysis and Visualization**, _Digital Learning Masterclass at OCBC NISP_, 22 February 2022.
 * Moderator: **Digital Transformation in the Company - Necessary or Overrated - (with Herman Widjaja/SVP Engineering Tokopedia as a speaker)**, _Monash Alumni Sharing_, 15 November 2021.
 * Speaker: **Digital Transformation in Finance Industry, and Digital Finance Research**, _International Lecture Series - BINUS University, Indonesia_, 1 November 2021.
 * Workshop Instructor: **Data Analytics in Accounting Domain**, _Fakultas Ekonomi dan Bisnis, Universitas Muhammadiyah Yogyakarta, Indonesia_, 30-31 August 2021.
