@@ -46,7 +46,7 @@ https://doi.org/10.2308/isys-50884)</b>. _Journal of Information Systems_, 29(1)
 Teaching Cases
 ----
 
-* Jutasompakorn, P., & **Perdana, A**., & Balachandran, V. (Forthcoming). Enhancing Decision Making with Machine Learning: The case of Aurora Crowdlending Platform. _Journal of Information Technology Teaching Cases_. **(AJG/ABS: 1)**
+* Jutasompakorn, P., & **Perdana, A**., & Balachandran, V. (Forthcoming). <b>[Enhancing Decision Making with Machine Learning: The case of Aurora Crowdlending Platform.](https://doi.org/10.1177/20438869211060847)</b> _Journal of Information Technology Teaching Cases_. **(AJG/ABS: 1)**
 
 * **Perdana, A**., & Arisandi, D. (Forthcoming). <b>[Automation at Truveil: Business Process Understanding and Analysis in RPA Implementation](https://doi.org/10.2308/JETA-2021-025)</b>. _Journal of Emerging Technologies in Accounting_. **(ABDC: B; SJR: Q2)**.
 
