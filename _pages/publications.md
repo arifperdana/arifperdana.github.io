@@ -157,12 +157,11 @@ Manuscript Under Review
 
 * Liew, A., O'Leary, D., **Perdana, A**., Wang, T. 2021 International Conference of the Journal of Information Systems Panel Discussion on Digital Transformation in Accounting and Auditing. In preparation for journal submission.
 
+* **Perdana, A**., & Wang, T. Harnessing Data and Embracing Digital Strategy: Digital Transformation at Zalora. In preparation for journal submission.
 
 
 Work in Progress
 ----
-
-* **Perdana, A**., & Wang, T. Harnessing Data and Embracing Digital Strategy: Digital Transformation at Zalora. In preparation for journal submission.
 
 * **Perdana, A**., Lee, W.E., Pan, G., Sun, S.P., & Lim, C. Trust in Cryptocurrencies: Economic, Social, Technological and Knowledge Influence. In preparation for journal submission
 
