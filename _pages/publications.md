@@ -151,13 +151,13 @@ Manuscript Under Review
 
 * **Perdana, A.**, Lee, H-H., Arisandi, D., & Koh, S-K. Embracing Data Analytics in Small and Mid-size Enterprises: A Multilevel Framework of Technological Acceptance. Submitted to a journal.
 
-* **Perdana, A**., Lee, W.E. Automated Decision Making and Digital Discrimination: Risk Mitigation Strategies. In preparation for journal submission.
+* **Perdana, A**., Lee, W.E. Automated Decision Making and Digital Discrimination: Risk Mitigation Strategies. Submitted to a journal.
 
-* Chu, M.K., & **Perdana, A**. Accounting Assessment Before and During COVID-19. In preparation for journal submission.
+* Chu, M.K., & **Perdana, A**. Accounting Assessment Before and During COVID-19. Submitted to a journal.
 
-* Liew, A., O'Leary, D., **Perdana, A**., Wang, T. 2021 International Conference of the Journal of Information Systems Panel Discussion on Digital Transformation in Accounting and Auditing. In preparation for journal submission.
+* Liew, A., O'Leary, D., **Perdana, A**., Wang, T. 2021 International Conference of the Journal of Information Systems Panel Discussion on Digital Transformation in Accounting and Auditing. Submitted to a journal.
 
-* **Perdana, A**., & Wang, T. Harnessing Data and Embracing Digital Strategy: Digital Transformation at Zalora. In preparation for journal submission.
+* **Perdana, A**., & Wang, T. Harnessing Data and Embracing Digital Strategy: Digital Transformation at Zalora. Submitted to a journal.
 
 
 Work in Progress
