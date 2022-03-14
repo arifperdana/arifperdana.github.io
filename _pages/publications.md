@@ -12,7 +12,7 @@ Please find the full list of my papers on [Google Scholar](https://scholar.googl
 Academic Journals
 ----
 
-* **Perdana, A**., Lee, H-H., Koh, S-K., & Arisandi, D. (Forthcoming). <b> [Data Analytics in Small and Mid-size Enterprises: Enablers and Inhibitors for Business Value and Firm Performance.](https://doi.org/10.1016/j.accinf.2021.100547)</b> _International Journal of Accounting Information Systems_. **(ABDC: A; SJR: Q1; AJG: 2)**.
+* **Perdana, A**., Lee, H-H., Koh, S-K., & Arisandi, D. (2022). <b> [Data Analytics in Small and Mid-size Enterprises: Enablers and Inhibitors for Business Value and Firm Performance.](https://doi.org/10.1016/j.accinf.2021.100547)</b> _International Journal of Accounting Information Systems_, 44, 100547. **(ABDC: A; SJR: Q1; AJG: 2)**.
 
 * **Perdana, A**., & Mokhtar, I.A. (2022). <b> [Seniors’ Adoption of Digital Devices and Virtual Event Platforms in Singapore during Covid-19](https://doi.org/10.1016/j.techsoc.2021.101817)</b>. _Technology in Society_, 68, 101817. **(SJR: Q1, ABDC: B)**.
 
@@ -46,6 +46,8 @@ https://doi.org/10.2308/isys-50884)</b>. _Journal of Information Systems_, 29(1)
 Teaching Cases
 ----
 
+* **Perdana**, A., & Mokhtar, I.A (Forthcoming). **Leveraging Digital Technologies for IT-Enabled Healthcare Transformation at SingHealth**. _Journal of Information Technology Teaching Cases_. **(AJG/ABS: 1)**
+* 
 * Jutasompakorn, P., & **Perdana, A**., & Balachandran, V. (Forthcoming). <b>[Enhancing Decision Making with Machine Learning: The case of Aurora Crowdlending Platform.](https://doi.org/10.1177/20438869211060847)</b> _Journal of Information Technology Teaching Cases_. **(AJG/ABS: 1)**
 
 * **Perdana, A**., & Arisandi, D. (Forthcoming). <b>[Automation at Truveil: Business Process Understanding and Analysis in RPA Implementation](https://doi.org/10.2308/JETA-2021-025)</b>. _Journal of Emerging Technologies in Accounting_. **(ABDC: B; SJR: Q2)**.
