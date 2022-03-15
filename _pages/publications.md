@@ -12,6 +12,8 @@ Please find the full list of my papers on [Google Scholar](https://scholar.googl
 Academic Journals
 ----
 
+* **Perdana, A.**, Lee, H-H., Arisandi, D., & Koh, S-K. (Forthcoming). Accelerating Data Analytics Adoption in Small and Mid-size Enterprises: A Singapore Context. _Technology in Society_.**(SJR: Q1, ABDC: B)**.
+
 * **Perdana, A**., Lee, H-H., Koh, S-K., & Arisandi, D. (2022). <b> [Data Analytics in Small and Mid-size Enterprises: Enablers and Inhibitors for Business Value and Firm Performance.](https://doi.org/10.1016/j.accinf.2021.100547)</b> _International Journal of Accounting Information Systems_, 44, 100547. **(ABDC: A; SJR: Q1; AJG: 2)**.
 
 * **Perdana, A**., & Mokhtar, I.A. (2022). <b> [Seniors’ Adoption of Digital Devices and Virtual Event Platforms in Singapore during Covid-19](https://doi.org/10.1016/j.techsoc.2021.101817)</b>. _Technology in Society_, 68, 101817. **(SJR: Q1, ABDC: B)**.
@@ -150,8 +152,6 @@ Manuscript Under Review
 * Lee, W.E., & **Perdana, A.** Effects of Experiential Service Learning in Improving Community Engagement Perception, Sustainability Awareness, and Data Analytics Competency. 1st round review in a journal.
 
 * Vivekanand, T. S, Bharathi. S.V.K., **Perdana, A.**, Venkatesh V.G, & Shi, P. Farm (Sea) to Plate: An Exploratory Study on the Applicability of Blockchain Applications in Sea-Food Supply Chain. Submitted to a journal.
-
-* **Perdana, A.**, Lee, H-H., Arisandi, D., & Koh, S-K. Embracing Data Analytics in Small and Mid-size Enterprises: A Multilevel Framework of Technological Acceptance. Submitted to a journal.
 
 * **Perdana, A**., Lee, W.E. Automated Decision Making and Digital Discrimination: Risk Mitigation Strategies. Submitted to a journal.
 
