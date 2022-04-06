@@ -12,7 +12,15 @@ Please find the full list of my papers on [Google Scholar](https://scholar.googl
 Academic Journals
 ----
 
-* **Perdana, A.**, Lee, H-H., Arisandi, D., & Koh, S-K. (Forthcoming). Accelerating Data Analytics Adoption in Small and Mid-size Enterprises: A Singapore Context. _Technology in Society_.**(SJR: Q1, ABDC: B)**.
+* **Perdana**, A., & Mokhtar, I.A (Forthcoming). **Leveraging Digital Technologies for IT-Enabled Healthcare Transformation at SingHealth**. _Journal of Information Technology Teaching Cases_. **(AJG/ABS: 1)**
+
+* Jutasompakorn, P., & **Perdana, A**., & Balachandran, V. (Forthcoming). <b>[Enhancing Decision Making with Machine Learning: The case of Aurora Crowdlending Platform.](https://doi.org/10.1177/20438869211060847)</b> _Journal of Information Technology Teaching Cases_. **(AJG/ABS: 1)**
+
+* **Perdana, A**., & Arisandi, D. (Forthcoming). <b>[Automation at Truveil: Business Process Understanding and Analysis in RPA Implementation](https://doi.org/10.2308/JETA-2021-025)</b>. _Journal of Emerging Technologies in Accounting_. **(ABDC: B; SJR: Q2)**.
+
+* **Perdana, A.**, & Tan, A. (Forthcoming). <b>[Performing Business Risk Assessment with Real-World Dataset and Data Visualisation](https://doi.org/10.1177/2043886921993128)</b>. _Journal of Information Technology Teaching Cases_. **(AJG/ABS: 1)**.
+
+* **Perdana, A.**, Lee, H-H., Arisandi, D., & Koh, S-K. (2022). <b> [Accelerating Data Analytics Adoption in Small and Mid-size Enterprises: A Singapore Context.](https://doi.org/10.1016/j.techsoc.2022.101966)</b> _Technology in Society_.**(SJR: Q1, ABDC: B)**.
 
 * **Perdana, A**., Lee, H-H., Koh, S-K., & Arisandi, D. (2022). <b> [Data Analytics in Small and Mid-size Enterprises: Enablers and Inhibitors for Business Value and Firm Performance.](https://doi.org/10.1016/j.accinf.2021.100547)</b> _International Journal of Accounting Information Systems_, 44, 100547. **(ABDC: A; SJR: Q1; AJG: 2)**.
 
@@ -23,6 +31,12 @@ Academic Journals
 * **Perdana, A**., Lee, W.E., & Robb, A. (2021). <b> [From Enfant Terrible to Problem-Solver? Tracing the Competing Discourse to Explain Blockchain-Related Technologies’ Diffusion](https://doi.org/10.1016/j.tele.2021.101662)</b>. _Telematics and Informatics_, 63, 101662. **(SJR: Q1; ABDC: C)**.
 
 * **Perdana, A**., Robb, A., Balachandran, V., & Rohde, F. (2021). <b>[Distributed Ledger Technology (DLT): Its Evolutionary Path and the Road Ahead](https://doi.org/10.1016/j.im.2020.103316)</b>. _Information & Management_, 58, 103316. **(SJR: Q1; ABDC: A*; AJG/ABS: 3)**.
+
+* Lim, C.Y, **Perdana, A.**, & Wong, S.R. (2021). <b>[Pursuing Effectiveness and Efficiency: Data Model for Workforce Scheduling at Alvarino](https://doi.org/10.1177/2043886920935903)</b>. _Journal of Information Technology Teaching Cases_, 11(1), 14-19. **(AJG/ABS: 1)**
+
+* **Perdana, A.**, Gaffoor. J., & Lee, H.H. (2020). <b>[Getting Data Analytics on Board at the Cage](https://doi.org/10.1177/2043886919899407)</b>. _Journal of Information Technology Teaching Cases_, 10(1), 29-34. **(AJG/ABS: 1)**.
+
+* Wee, T., **Perdana, A.**, Remy, D. (2019). <b>[Data Analytics Dilemma at Alpen Hotel](https://doi.org/10.1177/2043886919870543)</b>. _Journal of Information Technology Teaching Cases_, 9(2), 58-63. **(AJG/ABS: 1)**.
 
 * **Perdana, A**., Robb, A., & Rohde, F. (2019). <b>[Interactive Data and Information Visualization: Unpacking its Characteristics and Influencing Aspects on Decision-making](https://aisel.aisnet.org/pajais/vol11/iss4/4/)</b>. _Pacific Asia Journal of the Association for Information Systems_, 11(4), 1-30. **(ABDC: B; AJG/ABS: 2; JIF: 2)**.
 
@@ -43,24 +57,6 @@ https://doi.org/10.2308/isys-50884)</b>. _Journal of Information Systems_, 29(1)
 * **Perdana, A.**, Robb, A., & Rohde, F (2014). <b>[Experimental Research and Multivariate Analysis of Variance (MANOVA) in Information Systems Research - A Meta Review](https://www.inderscience.com/info/inarticle.php?artid=63767)</b>. _International Journal of Business Information Systems_, 16 (3): 247 - 270. **(SJR: Q3; ABDC: C; AJG/ABS: 1)**.
 
 * **Perdana, A.**, & Achjari, D. (2014). Informational Cascades, Types of Technology and Perceptual Factors in E-Commerce Adoption Decision Making. _Alliance Journal of Business Research_, 7(1): 2-12.
-
-
-Teaching Cases
-----
-
-* **Perdana**, A., & Mokhtar, I.A (Forthcoming). **Leveraging Digital Technologies for IT-Enabled Healthcare Transformation at SingHealth**. _Journal of Information Technology Teaching Cases_. **(AJG/ABS: 1)**
-
-* Jutasompakorn, P., & **Perdana, A**., & Balachandran, V. (Forthcoming). <b>[Enhancing Decision Making with Machine Learning: The case of Aurora Crowdlending Platform.](https://doi.org/10.1177/20438869211060847)</b> _Journal of Information Technology Teaching Cases_. **(AJG/ABS: 1)**
-
-* **Perdana, A**., & Arisandi, D. (Forthcoming). <b>[Automation at Truveil: Business Process Understanding and Analysis in RPA Implementation](https://doi.org/10.2308/JETA-2021-025)</b>. _Journal of Emerging Technologies in Accounting_. **(ABDC: B; SJR: Q2)**.
-
-* **Perdana, A.**, & Tan, A. (Forthcoming). <b>[Performing Business Risk Assessment with Real-World Dataset and Data Visualisation](https://doi.org/10.1177/2043886921993128)</b>. _Journal of Information Technology Teaching Cases_. **(AJG/ABS: 1)**.
-
-* Lim, C.Y, **Perdana, A.**, & Wong, S.R. (2021). <b>[Pursuing Effectiveness and Efficiency: Data Model for Workforce Scheduling at Alvarino](https://doi.org/10.1177/2043886920935903)</b>. _Journal of Information Technology Teaching Cases_, 11(1), 14-19. **(AJG/ABS: 1)**
-
-* **Perdana, A.**, Gaffoor. J., & Lee, H.H. (2020). <b>[Getting Data Analytics on Board at the Cage](https://doi.org/10.1177/2043886919899407)</b>. _Journal of Information Technology Teaching Cases_, 10(1), 29-34. **(AJG/ABS: 1)**.
-
-* Wee, T., **Perdana, A.**, Remy, D. (2019). <b>[Data Analytics Dilemma at Alpen Hotel](https://doi.org/10.1177/2043886919870543)</b>. _Journal of Information Technology Teaching Cases_, 9(2), 58-63. **(AJG/ABS: 1)**.
 
 
 Practitioner/Specialist Journals
@@ -151,15 +147,15 @@ Manuscript Under Review
 
 * Lee, W.E., & **Perdana, A.** Effects of Experiential Service Learning in Improving Community Engagement Perception, Sustainability Awareness, and Data Analytics Competency. 1st round review in a journal.
 
-* Vivekanand, T. S, Bharathi. S.V.K., **Perdana, A.**, Venkatesh V.G, & Shi, P. Farm (Sea) to Plate: An Exploratory Study on the Applicability of Blockchain Applications in Sea-Food Supply Chain. Submitted to a journal.
-
 * **Perdana, A**., Lee, W.E. Automated Decision Making and Digital Discrimination: Risk Mitigation Strategies. Submitted to a journal.
 
 * Chu, M.K., & **Perdana, A**. Accounting Assessment Before and During COVID-19. Submitted to a journal.
 
-* Liew, A., O'Leary, D., **Perdana, A**., Wang, T. 2021 International Conference of the Journal of Information Systems Panel Discussion on Digital Transformation in Accounting and Auditing. Submitted to a journal.
-
 * **Perdana, A**., & Wang, T. Harnessing Data and Embracing Digital Strategy: Digital Transformation at Zalora. Submitted to a journal.
+
+* Kannan, A.K., Bharathi, S.V.K., Kulkarni, M.S., **Perdana, A**. Stock Price Prediction with Time Series Analysis, Machine Learning and Deep Learning Techniques. In preparation for journal submission.
+
+* **Perdana, A**. Championing Trust: The Interplay of Cognitive and Technology to Inspire Trust and Usage Intention of Crowdlending Platform. In preparation for journal submission.
 
 
 Work in Progress
@@ -167,11 +163,13 @@ Work in Progress
 
 * **Perdana, A**., Lee, W.E., Pan, G., Sun, S.P., & Lim, C. Trust in Cryptocurrencies: Economic, Social, Technological and Knowledge Influence. In preparation for journal submission
 
-* **Perdana, A**. Championing Trust: The Interplay of Cognitive and Technology to Inspire Trust and Usage Intention of Crowdlending Platform. In preparation for journal submission.
-
 * Bharathi, S.V.K., Kulkarni, M.S., **Perdana, A**. The Synergy Between Financial Technologies and Financial Inclusion: What We Know and Where We Should Be Heading? In preparation for journal submission.
 
-* Kannan, A.K., Bharathi, S.V.K., Kulkarni, M.S., **Perdana, A**. Stock Price Prediction with Time Series Analysis, Machine Learning and Deep Learning Techniques. In preparation for journal submission.
+* Vivekanand, T. S, Bharathi. S.V.K., **Perdana, A.**, Venkatesh V.G, & Shi, P. Farm (Sea) to Plate: An Exploratory Study on the Applicability of Blockchain Applications in Sea-Food Supply Chain. In preparation for journal submission
+
+* Liew, A., O'Leary, D., **Perdana, A**., Wang, T. 2021 International Conference of the Journal of Information Systems Panel Discussion on Digital Transformation in Accounting and Auditing. In preparation for journal submission
+
+* **Perdana, A.**, Jutasompakorn, P., & Sprenkamp, K. Unbox the Black-Box of Credit Scoring Models using Model-Agnostic Explanations. In preparation for journal submission.
 
 * **Perdana, A**., & Wang, T. (Editors). Digital Transformation in Accounting and Auditing. Expected to be published by Palgrave MacMillan by Summer 2023.
 
