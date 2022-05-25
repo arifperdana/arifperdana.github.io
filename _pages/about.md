@@ -36,6 +36,8 @@ Research Featured in the Media and Institutional Webpages
 
 ![SIT](/images/Media_SIT.jpg)
 
+![TC](/images/TC.jpg)
+
 Further Links:
 <br>
 <b>[70% of SMEs have not adopted data analytics, with most only familiar with spreadsheets: poll](https://www.businesstimes.com.sg/sme/70-of-smes-have-not-adopted-data-analytics-with-most-only-familiar-with-spreadsheets-poll)</b>
@@ -47,3 +49,5 @@ Further Links:
 <b>[Study Led By SIT Finds Limited Adoption Of Data Analytics Among SMEs In Singapore](https://www.singaporetech.edu.sg/digitalnewsroom/study-led-by-sit-finds-limited-adoption-of-data-analytics-among-smes-in-singapore/)
 <br>
 <b>[Understanding Crowdlending Diffusion and Investor Behaviour in Asia](https://www.singaporetech.edu.sg/digitalnewsroom/understanding-crowdlending-diffusion-and-investor-behaviour-in-asia/)
+<br>
+<b>[Dalam Kebocoran Big Data Mengapa Faktor Manusia Kerap Terlupakan](https://theconversation.com/dalam-kebocoran-big-data-mengapa-faktor-manusia-kerap-terlupakan-172870)
