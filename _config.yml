@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Arif Perdana / Site Title"
+title                    : "Arif Perdana | Monash University"
 title_separator          : "-"
 name                     : &name "Arif Perdana"
-description              : &description "Arif Perdana | Data Science and Analytics, and Digital Technologies Enablement"
+description              : &description "Arif Perdana | Data Science and Analytics, Digital Technologies Strategy, and Accounting Information Systems"
 url                      : https://arifperdana.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "arifperdana/arifperdana.github.io"
