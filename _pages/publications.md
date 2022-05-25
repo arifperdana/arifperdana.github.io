@@ -18,9 +18,9 @@ Academic Journals
 
 * **Perdana, A**., & Arisandi, D. (Forthcoming). <b>[Automation at Truveil: Business Process Understanding and Analysis in RPA Implementation](https://doi.org/10.2308/JETA-2021-025)</b>. _Journal of Emerging Technologies in Accounting_. **(ABDC: B; SJR: Q2)**.
 
-* **Perdana, A.**, & Tan, A. (Forthcoming). <b>[Performing Business Risk Assessment with Real-World Dataset and Data Visualisation](https://doi.org/10.1177/2043886921993128)</b>. _Journal of Information Technology Teaching Cases_. **(AJG/ABS: 1)**.
+* **Perdana, A.**, & Tan, A. (Forthcoming). <b>[Performing Business Risk Assessment with Real-World Dataset and Data Visualisation](https://doi.org/10.1177/2043886921993128)</b>. _Journal of Information Technology Teaching Cases_, 12(1), 96-101. **(AJG/ABS: 1)**.
 
-* **Perdana, A.**, Lee, H-H., Arisandi, D., & Koh, S-K. (2022). <b> [Accelerating Data Analytics Adoption in Small and Mid-size Enterprises: A Singapore Context.](https://doi.org/10.1016/j.techsoc.2022.101966)</b> _Technology in Society_.**(SJR: Q1, ABDC: B)**.
+* **Perdana, A.**, Lee, H-H., Arisandi, D., & Koh, S-K. (2022). <b> [Accelerating Data Analytics Adoption in Small and Mid-size Enterprises: A Singapore Context.](https://doi.org/10.1016/j.techsoc.2022.101966)</b> _Technology in Society_, 69, 101966. **(SJR: Q1, ABDC: B)**.
 
 * **Perdana, A**., Lee, H-H., Koh, S-K., & Arisandi, D. (2022). <b> [Data Analytics in Small and Mid-size Enterprises: Enablers and Inhibitors for Business Value and Firm Performance.](https://doi.org/10.1016/j.accinf.2021.100547)</b> _International Journal of Accounting Information Systems_, 44, 100547. **(ABDC: A; SJR: Q1; AJG: 2)**.
 
