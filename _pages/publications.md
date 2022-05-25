@@ -12,7 +12,7 @@ Please find the full list of my papers on [Google Scholar](https://scholar.googl
 Academic Journals
 ----
 
-* **Perdana**, A., & Mokhtar, I.A (Forthcoming). **Leveraging Digital Technologies for IT-Enabled Healthcare Transformation at SingHealth**. _Journal of Information Technology Teaching Cases_. **(AJG/ABS: 1)**
+* **Perdana**, A., & Mokhtar, I.A (Forthcoming). <b>[Leveraging Digital Technologies for IT-Enabled Healthcare Transformation at SingHealth.](https://doi.org/10.1177/20438869221091582)</b> _Journal of Information Technology Teaching Cases_. **(AJG/ABS: 1)**
 
 * Jutasompakorn, P., & **Perdana, A**., & Balachandran, V. (Forthcoming). <b>[Enhancing Decision Making with Machine Learning: The case of Aurora Crowdlending Platform.](https://doi.org/10.1177/20438869211060847)</b> _Journal of Information Technology Teaching Cases_. **(AJG/ABS: 1)**
 
@@ -157,6 +157,8 @@ Manuscript Under Review
 
 * **Perdana, A**. Championing Trust: The Interplay of Cognitive and Technology to Inspire Trust and Usage Intention of Crowdlending Platform. In preparation for journal submission.
 
+* Liew, A., O'Leary, D., **Perdana, A**., Wang, T. 2021 International Conference of the Journal of Information Systems Panel Discussion on Digital Transformation in Accounting and Auditing. In preparation for journal submission
+
 
 Work in Progress
 ----
@@ -166,8 +168,6 @@ Work in Progress
 * Bharathi, S.V.K., Kulkarni, M.S., **Perdana, A**. The Synergy Between Financial Technologies and Financial Inclusion: What We Know and Where We Should Be Heading? In preparation for journal submission.
 
 * Vivekanand, T. S, Bharathi. S.V.K., **Perdana, A.**, Venkatesh V.G, & Shi, P. Farm (Sea) to Plate: An Exploratory Study on the Applicability of Blockchain Applications in Sea-Food Supply Chain. In preparation for journal submission
-
-* Liew, A., O'Leary, D., **Perdana, A**., Wang, T. 2021 International Conference of the Journal of Information Systems Panel Discussion on Digital Transformation in Accounting and Auditing. In preparation for journal submission
 
 * **Perdana, A.**, Jutasompakorn, P., & Sprenkamp, K. Unbox the Black-Box of Credit Scoring Models using Model-Agnostic Explanations. In preparation for journal submission.
 
