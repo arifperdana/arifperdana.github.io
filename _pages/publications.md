@@ -12,6 +12,10 @@ Please find the full list of my papers on [Google Scholar](https://scholar.googl
 Academic Journals
 ----
 
+* Lee, W.E., & **Perdana, A.** (Conditional Acceptance). **Effects of Experiential Service Learning in Improving Community Engagement Perception, Sustainability Awareness, and Data Analytics Competency**. _Journal of Accounting Education_. **(SJR: Q1; ABDC: B)**.
+
+* Liew, A., O'Leary, D., **Perdana, A**., Wang, T. (Forthcoming). <b>[Digital Transformation in Accounting and Auditing: 2021 International Conference of the Journal of Information Systems Panel Discussion.](https://doi.org/10.2308/ISYS-2022-008)</b>. _Journal of Information Systems_. **(SJR: Q1; ABDC: A; AJG/ABS: 1)**.
+
 * **Perdana**, A., & Mokhtar, I.A (Forthcoming). <b>[Leveraging Digital Technologies for IT-Enabled Healthcare Transformation at SingHealth.](https://doi.org/10.1177/20438869221091582)</b> _Journal of Information Technology Teaching Cases_. **(AJG/ABS: 1)**
 
 * Jutasompakorn, P., & **Perdana, A**., & Balachandran, V. (Forthcoming). <b>[Enhancing Decision Making with Machine Learning: The case of Aurora Crowdlending Platform.](https://doi.org/10.1177/20438869211060847)</b> _Journal of Information Technology Teaching Cases_. **(AJG/ABS: 1)**
@@ -145,8 +149,6 @@ Non-peer reviewed Conferences
 Manuscript Under Review
 ----
 
-* Lee, W.E., & **Perdana, A.** Effects of Experiential Service Learning in Improving Community Engagement Perception, Sustainability Awareness, and Data Analytics Competency. 1st round review in a journal.
-
 * **Perdana, A**., Lee, W.E. Automated Decision Making and Digital Discrimination: Risk Mitigation Strategies. Submitted to a journal.
 
 * Chu, M.K., & **Perdana, A**. Accounting Assessment Before and During COVID-19. Submitted to a journal.
@@ -157,7 +159,6 @@ Manuscript Under Review
 
 * **Perdana, A**. Championing Trust: The Interplay of Cognitive and Technology to Inspire Trust and Usage Intention of Crowdlending Platform. In preparation for journal submission.
 
-* Liew, A., O'Leary, D., **Perdana, A**., Wang, T. 2021 International Conference of the Journal of Information Systems Panel Discussion on Digital Transformation in Accounting and Auditing. In preparation for journal submission
 
 
 Work in Progress
