@@ -14,7 +14,7 @@ Academic Journals
 
 * Lee, W.E., & **Perdana, A.** (Conditional Acceptance). **Effects of Experiential Service Learning in Improving Community Engagement Perception, Sustainability Awareness, and Data Analytics Competency**. _Journal of Accounting Education_. **(SJR: Q1; ABDC: B)**.
 
-* Liew, A., O'Leary, D., **Perdana, A**., Wang, T. (Forthcoming). <b>[Digital Transformation in Accounting and Auditing: 2021 International Conference of the Journal of Information Systems Panel Discussion.](https://doi.org/10.2308/ISYS-2022-008)</b>. _Journal of Information Systems_. **(SJR: Q1; ABDC: A; AJG/ABS: 1)**.
+* Liew, A., O'Leary, D., **Perdana, A**., Wang, T. (Forthcoming). <b>[Digital Transformation in Accounting and Auditing: 2021 International Conference of the Journal of Information Systems Panel Discussion](https://doi.org/10.2308/ISYS-2022-008)</b>. _Journal of Information Systems_. **(SJR: Q1; ABDC: A; AJG/ABS: 1)**.
 
 * **Perdana**, A., & Mokhtar, I.A (Forthcoming). <b>[Leveraging Digital Technologies for IT-Enabled Healthcare Transformation at SingHealth.](https://doi.org/10.1177/20438869221091582)</b> _Journal of Information Technology Teaching Cases_. **(AJG/ABS: 1)**
 
