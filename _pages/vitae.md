@@ -29,7 +29,9 @@ Education
 Research Grants
 ======
 
-I have secured SGD 307,843.00 research grant (20% – 30% of the grant was externally funded by industry and external institutions) in data science and analytics, and digital technologies areas. The list is as follow:
+I have secured multiple grants from the Singapore Government (SGD 307,843.00 research grant. 20% – 30% of the grant was externally funded by industry and external institutions) and Australia Funding Institutions (AUD 43, 914.00) in data science and analytics and digital technologies area. The list is as follows:
+
+* Whyte Fund, Monash University (Co-PI). Research Team: Dr. Misita Anwar (PI). Understanding Farmers' Record-Keeping Practice To Support Decision Making Using Data-Driven Farming In Indonesia, Amount AUD 43,914.00 (August 2022 to July 2023).
 * SIT Ignition Grant in collaboration with Home Team Science & Technology Agency; Allen & Gledhill LLP; University of Piraeus; and APWG.eu (Co-PI). Research Team: Dr. Purnima Murali Mohan (PI), and Dr. Peter Loh Kok Keong. An Online Blockchain Smart Contract Vulnerability Scanner, Amount SGD 99,200.00 (2021-2021)
 * SIT Ignition Grant in collaboration with Crowdo Holdings Pte, Ltd. (Primary Investigator). Research Team: Co-PI Dr. Pearpilai Jutasompakorn, Dr. Lee Hwee Hoon, and Dr. Alex Qiang Chen. Crowdfunding Investors’ Behaviour: Characteristics and Decision Making, Amount: SGD 88,400.00 (2019 - 2021).
 * SIT Ignition Grant in collaboration with HANDS Enterprise Solutions, Singapore (Co-PI). Research Team: Dr. Michelle Zou Junqi (PI), Dr. Kevin Ow Yong Keng. Deployment of Data Analytics Models for Workforce and Project Management, Amount: SGD 92,043.00. (2019 - 2021).
