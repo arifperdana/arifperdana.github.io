@@ -88,8 +88,8 @@ Academic Services
 
 Technical skills
 ======
-* Programming Language: Python.
-* Robotic Process Automation: UiPath.
+* Programming Language: Python and R
+* Robotic Process Automation: UiPath and Microsoft Power Automate
 * Data Preparation and Visualization: Alteryx Designer, Tableau Prep, Open Refine, Power BI, Tableau Desktop.
 * Enterprise Resource Planning: SAP Hana.
 * Statistical Packages: SmartPLS, SPSS, and R Programming.
