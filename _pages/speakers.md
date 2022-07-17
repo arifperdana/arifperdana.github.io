@@ -11,7 +11,7 @@ Invited Talks
 ----
 
 * Guest Lecturer: **Crowdlending and Digital Currencies: How They Are Transforming Financial Services**. _Pusan National University Business School_, 5 July 2022.
-* Speaker: **The Data Science Mindset**._ Monash University Masterclass for Master of Data Science Program_, 18 June 2022.
+* Speaker: **The Data Science Mindset**._Monash University Masterclass for Master of Data Science Program_, 18 June 2022.
 * Speaker: **Understanding the Key Skill Sets Required for a Tech Career**. _MITRA 5.0 (Monash University and Traveloka) program on Human Capital Empowerment for Technology Ecosystem_, 17 June 2022.
 * Speaker: **Data Smart: Transforming Data into Insight with Data Science**, _Monash University Masterclass for Master of Data Science Program_, 26 February 2022.
 * Speaker: **Performing Exploratory Data Analysis and Visualization**, _Digital Learning Masterclass at OCBC NISP Bank_, 22 February 2022.
