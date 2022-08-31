@@ -10,6 +10,8 @@ author_profile: true
 Invited Talks
 ----
 
+* Guest Speaker: **Integrating Data Science and Analytics into Business and Management Curriculum**. _FEB UIN Jakarta_, 27 July 2022.
+* Guest Speaker: **Innovations and the Future of Blockchain in the Financial Sector**. _Digital & Technology Talk Series - BNI Corporate University_, 19 July 2022.
 * Guest Lecturer: **Crowdlending and Digital Currencies: How They Are Transforming Financial Services**. _Pusan National University Business School_, 5 July 2022.
 * Speaker: **The Data Science Mindset**._Monash University Masterclass for Master of Data Science Program_, 18 June 2022.
 * Speaker: **Understanding the Key Skill Sets Required for a Tech Career**. _MITRA 5.0 (Monash University and Traveloka) program on Human Capital Empowerment for Technology Ecosystem_, 17 June 2022.
