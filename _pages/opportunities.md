@@ -8,8 +8,11 @@ author_profile: true
 
 
 **Research Associate & Research Assistant Positions Available**
+
 Fintech for Social Impact
+
 Published: August 31, 2022
+
 Full-time and Part-time Positions
 
 We are seeking a Research Associate (full time) and a Research Assistant (part-time) for a multidisciplinary research project exploring the potential of using machine learning to promote 'Fintech for Social Impact'.The project aims to help a fintech institution improve their risk assessment of individuals they might not usually lend to, and combines expertise in Data Science/Machine Learning, Psychology, Human-Computer Interaction and Economics/Finance. 
