@@ -10,7 +10,10 @@ main:
     url: /speakers/    
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/
+   
+  - title: "Opportunities"
+    url: /opportunities/    
     
   #- title: "Workshops and Training"
   #  url: /portfolio/
