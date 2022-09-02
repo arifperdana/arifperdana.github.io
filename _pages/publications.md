@@ -155,20 +155,18 @@ Manuscript Under Review
 
 * **Perdana, A**., & Wang, T. Harnessing Data and Embracing Digital Strategy: Digital Transformation at Zalora. Submitted to a journal.
 
-* Kannan, A.K., Bharathi, S.V.K., Kulkarni, M.S., **Perdana, A**. Stock Price Prediction with Time Series Analysis, Machine Learning and Deep Learning Techniques. In preparation for journal submission.
+* **Perdana, A**. Championing Trust: The Interplay of Cognitive and Technology to Inspire Trust and Usage Intention of Crowdlending Platform. Under review
 
-* **Perdana, A**. Championing Trust: The Interplay of Cognitive and Technology to Inspire Trust and Usage Intention of Crowdlending Platform. In preparation for journal submission.
+* **Perdana, A**., Lee, W.E., Pan, G., Sun, S.P., & Lim, C. Trust in Cryptocurrencies: Economic, Social, Technological and Knowledge Influence. Submitted to a journal.
 
+* Bharathi, S.V.K., Kulkarni, M.S., **Perdana, A**. The Synergy Between Financial Technologies and Financial Inclusion: What We Know and Where We Should Be Heading? Submitted to a journal.
+
+* Vivekanand, T. S, Bharathi. S.V.K., **Perdana, A.**, Venkatesh V.G, & Shi, P. Farm (Sea) to Plate: An Exploratory Study on the Applicability of Blockchain Applications in Sea-Food Supply Chain. Under review
 
 
 Work in Progress
 ----
-
-* **Perdana, A**., Lee, W.E., Pan, G., Sun, S.P., & Lim, C. Trust in Cryptocurrencies: Economic, Social, Technological and Knowledge Influence. In preparation for journal submission
-
-* Bharathi, S.V.K., Kulkarni, M.S., **Perdana, A**. The Synergy Between Financial Technologies and Financial Inclusion: What We Know and Where We Should Be Heading? In preparation for journal submission.
-
-* Vivekanand, T. S, Bharathi. S.V.K., **Perdana, A.**, Venkatesh V.G, & Shi, P. Farm (Sea) to Plate: An Exploratory Study on the Applicability of Blockchain Applications in Sea-Food Supply Chain. In preparation for journal submission
+* Kannan, A.K., Bharathi, S.V.K., Kulkarni, M.S., **Perdana, A**. Stock Price Prediction with Time Series Analysis, Machine Learning and Deep Learning Techniques. In preparation for journal submission.
 
 * **Perdana, A.**, Jutasompakorn, P., & Sprenkamp, K. Unbox the Black-Box of Credit Scoring Models using Model-Agnostic Explanations. In preparation for journal submission.
 
