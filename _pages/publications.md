@@ -86,6 +86,8 @@ Books/Book Chapters
 Peer-reviewed Conferences/Workshops
 ----
 
+* Jutasompakorn, P., **Perdana, A**., Chung, S. (2022). Trust in Crowdlending: Do Lenders Value Profit, Safety or Platform Quality? _International Symposium on Accounting Information Systems_, Melbourne, Australia.
+
 * Lee, W. E., **Perdana, A.**, & Robb, A. (2019). From Enfant Terrible to Problem-Solver? Tracing the Competing Discourse to Explain Blockchain-Related Technologies’ Diffusion. In _11th Annual Pre-ICIS Workshop on Accounting Information Systems_, Munich, Germany.
 
 * **Perdana, A.**, Koh, S.K., & Lee, H.H. (2019). Equipping Accountancy Students with Data Analytics Competencies. _Conference on Teaching and Learning in Accounting (CTLA), American Accounting Association (AAA) Annual Meeting_, San Fransisco, United States of America.
@@ -151,7 +153,7 @@ Manuscript Under Review
 
 * **Perdana, A**., Lee, W.E. Automated Decision Making and Digital Discrimination: Risk Mitigation Strategies. Submitted to a journal.
 
-* Chu, M.K., & **Perdana, A**. Accounting Assessment Before and During COVID-19. Submitted to a journal.
+* Chu, M.K., & **Perdana, A**. Accounting Assessment Before and During COVID-19. Under review.
 
 * **Perdana, A**., & Wang, T. Harnessing Data and Embracing Digital Strategy: Digital Transformation at Zalora. Submitted to a journal.
 
