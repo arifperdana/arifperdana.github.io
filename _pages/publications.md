@@ -66,6 +66,8 @@ https://doi.org/10.2308/isys-50884)</b>. _Journal of Information Systems_, 29(1)
 Practitioner/Specialist Journals
 ----
 
+* **Perdana, A**., Lee, W.E. **Artificial Intelligence and Digital Discrimination: How Accountants Can Contribute Toward Responsible Practices**. _Strategic Finance_.
+
 * Jutasompakorn, P., & **Perdana, A.** (2021). <b>[Crowdlending and Credit Models](https://www.arx.cfa/~/media/4FD6BF22CB614C14909BDB8DF77E59BF.ashx)</b>. _Asia-Pacific Research Exchange_, June 2021.
 
 * **Perdana, A.**, & Yong, K. (2021). <b>[Intelligent Automation](https://journal.isca.org.sg/2021/04/29/dons-column-intelligent-automation/pugpig_index.html)</b>. _ISCA Journal_, May, 39-41.
@@ -150,8 +152,6 @@ Non-peer reviewed Conferences
 
 Manuscript Under Review
 ----
-
-* **Perdana, A**., Lee, W.E. Automated Decision Making and Digital Discrimination: Risk Mitigation Strategies. Submitted to a journal.
 
 * Chu, M.K., & **Perdana, A**. Accounting Assessment Before and During COVID-19. Under review.
 
