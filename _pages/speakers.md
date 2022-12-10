@@ -10,6 +10,16 @@ author_profile: true
 Invited Talks
 ----
 
+* Workshop Facilitator: **Teaching Cases Development to Enhance Students Learning Experiences**. _Universitas Islam Bandung_, 8 December 2022.
+* Invited Speaker: **Leveraging Technology and Data for Environmental, Social, and Governance (ESG)**. _Indonesian Institute of Management Accountants_, Jakarta (Hybrid), 25 November 2022.
+* Invited Speaker: **Decentralized Finance: How It Is Shaking Up the Existing Finance Industry**. _CPA Australia in Indonesia Seminar_, Jakarta (Hybrid), 23 November 2022.
+* Invited Speaker: **Polarization and technology-fueled disinformation: steps to disengage and tackle misleading web content**. _Expert Roundtable. International Forum on Digital and Democracy_, Rome (Hybrid), 17 November 2022.
+* Invited Speaker: **Equitable Partnerships**. _QS Higher Ed Summit: Asia Pacific 2022_. Jakarta, Indonesia, 9 November 2022.
+* Invited Speaker: **Digital Finance for Financial Inclusion**. _The 2nd International Conference on Business and Economics_.  Universitas Pattimura, 15 October 2022.
+* Invited Speaker: **Data Science: Turning Data into Actionable Insights**. _Universitas Islam Bandung_, 13 October 2022.
+* Invited Speaker: **Data Analytics: Analysing and Managing Business Data for Actionable Insight**. _Universitas Islam Negeri Alauddin_, Makassar, 13 October 2022.
+* Invited Speaker: **Blockchain and the Accounting Profession: Threats or Opportunities**. _ASA Festival 2022, Universitas Prasetya Mulya_, 24 September 2022.
+* Invited Speaker and Panelits: **AI and Humans: Maximising Benefits and Minimising Risks**._ T20/G20  International Conference_, Bali, 5 September 2022.
 * Guest Speaker: **Integrating Data Science and Analytics into Business and Management Curriculum**. _FEB UIN Jakarta_, 27 July 2022.
 * Guest Speaker: **Innovations and the Future of Blockchain in the Financial Sector**. _Digital & Technology Talk Series - BNI Corporate University_, 19 July 2022.
 * Guest Lecturer: **Crowdlending and Digital Currencies: How They Are Transforming Financial Services**. _Pusan National University Business School_, 5 July 2022.
