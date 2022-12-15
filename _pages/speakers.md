@@ -11,6 +11,8 @@ Invited Talks
 ----
 
 **2022**
+* Inivited Speaker: **Digital Technologies and the Accounting Education**. _Fakultas Ekonomi, Universitas Janabadra_, Yogyakarta, 14 December 2022.
+* Guest Lecturer: **Digital Technologies: How They Are Shaping the Current and Future Business Landscape**. _Fakultas Ekonomika dan Bisnis, Universitas Negeri Sebelas Maret_, Surakarta, 12 December 2022.
 * Workshop Facilitator: **Teaching Cases Development to Enhance Students Learning Experiences**. _Universitas Islam Bandung_, 8 December 2022.
 * Invited Speaker: **Leveraging Technology and Data for Environmental, Social, and Governance (ESG)**. _Indonesian Institute of Management Accountants_, Jakarta (Hybrid), 25 November 2022.
 * Invited Speaker: **Decentralized Finance: How It Is Shaking Up the Existing Finance Industry**. _CPA Australia in Indonesia Seminar_, Jakarta (Hybrid), 23 November 2022.
