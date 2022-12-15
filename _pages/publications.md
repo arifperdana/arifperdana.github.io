@@ -155,25 +155,29 @@ Non-peer reviewed Conferences
 Manuscript Under Review
 ----
 
-* Chu, M.K., & **Perdana, A**. Accounting Assessment Before and During COVID-19. Under review.
+* **Perdana, A**., Chu, M.K., & Lee, W.E. Robotic Process Automation Scenarios in Auditing: Cases Comparison in Accounting Firms, Proposed Automation Scenarios, Opportunities and Challenges. Submitted to a Journal.
 
-* **Perdana, A**., & Wang, T. Harnessing Data and Embracing Digital Strategy: Digital Transformation at Zalora. Submitted to a journal.
+* **Perdana, A**. & Chu, M.K. Assessment in Accounting-related Courses during COVID-19: Cases from Singapore Universities and Polytechnics. 2nd round review in a journal.
 
-* **Perdana, A**. Championing Trust: The Interplay of Cognitive and Technology to Inspire Trust and Usage Intention of Crowdlending Platform. Under review
+* **Perdana, A**., Lee, W.E., Pan, G., Sun, S.P., & Lim, C.Y. Trust in Cryptocurrencies: Economic, Social, Technological and Knowledge Influence. Submitted to a journal.
 
-* **Perdana, A**., Lee, W.E., Pan, G., Sun, S.P., & Lim, C. Trust in Cryptocurrencies: Economic, Social, Technological and Knowledge Influence. Submitted to a journal.
+* **Perdana, A**., Lee, W.E., Pan, G., Sun, S.P., & Lim, C.Y. Ethics, Cultural Dimension and Trust in Cryptocurrency Use: A configurational analysis. Submitted to a journal
 
-* Bharathi, S.V.K., Kulkarni, M.S., **Perdana, A**. The Synergy Between Financial Technologies and Financial Inclusion: What We Know and Where We Should Be Heading? Submitted to a journal.
+* Kulkarni, M.S., Bharathi, S.V.K., & **Perdana, A**., Kannan, A.K. Stock Price Prediction with Time Series Analysis, Machine Learning and Deep Learning Techniques. Submitted to a Journal.
 
-* Vivekanand, T. S, Bharathi. S.V.K., **Perdana, A.**, Venkatesh V.G, & Shi, P. Farm (Sea) to Plate: An Exploratory Study on the Applicability of Blockchain Applications in Sea-Food Supply Chain. Under review
+* **Perdana, A**., Jutasompakorn, P., Chung, S. Championing Trust: The Interplay of Cognitive and Technology to Inspire Trust and Usage Intention of Crowdlending Platform. Submitted to a Journal.
+
+* Vivekanand, T. S, Bharathi. S.V.K., **Perdana, A**., Venkatesh V.G, & Shi, P. Farm (Sea) to Plate: An Exploratory Study on the Applicability of Blockchain Applications in Sea-Food Supply Chain. Submitted to a journal.
+
+* Bharathi, S.V.K., Kulkarni, M.S., & **Perdana, A**. The Synergy Between Financial Technologies and Financial Inclusion: What We Know and Where We Should Be Heading? Submitted to a journal
 
 
 Work in Progress
 ----
-* Kannan, A.K., Bharathi, S.V.K., Kulkarni, M.S., **Perdana, A**. Stock Price Prediction with Time Series Analysis, Machine Learning and Deep Learning Techniques. In preparation for journal submission.
+* **Perdana, A**., Lee, W.E., & Quadrianto, N. Automated Decision Making and Ethical Challenges.  In preparation for a book chapter submission.
 
-* **Perdana, A.**, Jutasompakorn, P., & Sprenkamp, K. Unbox the Black-Box of Credit Scoring Models using Model-Agnostic Explanations. In preparation for journal submission.
+* Teo, H.C.,Liu, F.H.M., Lechner, A.M., **Perdana, A**., Clemenet, G.R., Abdulllah, D.V., Mahmood, J., Nuryartono, N, Koh, L.P. Mobilising faith-based communities for climate action. In preparation for journal submission.
+
+* P**erdana, A**., Jutasompakorn, P., & Sprenkamp, K. Unbox the Black-Box of Credit Scoring Models using Model-Agnostic Explanations. In preparation for journal submission.
 
 * **Perdana, A**., & Wang, T. (Editors). Digital Transformation in Accounting and Auditing. Expected to be published by Palgrave MacMillan by Summer 2023.
-
-* **Perdana, A**., Lee, W.E., Pan, G., Sun, S.P., & Lim, C.Y. Ethics, Cultural Dimension and Trust in Cryptocurrency Use. In preparation for journal submission.
