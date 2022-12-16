@@ -11,6 +11,7 @@ Invited Talks
 ----
 
 **2022**
+* Invited Speaker: **Data-Driven Public Sector: Harnessing Data to Improve Public Services**. _Fakultas Ekonomika dan Bisnis. Universitas Katolik Widya Mandira_, Kupang, Nusa Tenggara Timur, 16 December 2022.
 * Inivited Speaker: **Digital Technologies and the Accounting Education**. _Fakultas Ekonomi, Universitas Janabadra_, Yogyakarta, 14 December 2022.
 * Guest Lecturer: **Digital Technologies: How They Are Shaping the Current and Future Business Landscape**. _Fakultas Ekonomika dan Bisnis, Universitas Negeri Sebelas Maret_, Surakarta, 12 December 2022.
 * Workshop Facilitator: **Teaching Cases Development to Enhance Students Learning Experiences**. _Universitas Islam Bandung_, 8 December 2022.
