@@ -65,8 +65,9 @@ Academic Services
 ======
 
 * Editorial Board Member of **the International Journal of Accounting Information Systems** (2022 - present).
+* Editorial Board Member of **Journal of Information Systems** (2023 - present).
 
-* Ad-hoc Journal Reviewer of **Information & Management** (2020, 2021, 2022);**the International Journal of Accounting Information Systems** (2017, 2018, 2019, 2020; 2022); **IEEE Transaction on Engineering Management** (2021); **Journal of Emerging Technology in Accounting** (2022); **New Media and Society** (2021); **Accounting Horizons** (2021); **Journal of Information Systems** (2019, 2020, 2021); **the Australasian Journal of Information Systems** (2014, 2015); **Pacific Asia Journal of the Association for Information Systems** (2020, 2021); **PLoS ONE** (2022); **The CASE Journal**(2020); **Asia Pacific Journal of Information Systems** (2020, 2021).
+* Ad-hoc Journal Reviewer of **Information & Management** (2020, 2021, 2022); **the International Journal of Accounting Information Systems** (2017, 2018, 2019, 2020; 2022); **IEEE Transaction on Engineering Management** (2021); **Information Systems Frontier** (2022); **Electronic Commerce Research** (2022); **Journal of Emerging Technology in Accounting** (2022); **New Media and Society** (2021); **Accounting Horizons** (2021); **Journal of Information Systems** (2019, 2020, 2021, 2022); **the Australasian Journal of Information Systems** (2014, 2015); **Pacific Asia Journal of the Association for Information Systems** (2020, 2021, 2022); **Asian Accounting Review** (2022); **PLoS ONE** (2022); **The CASE Journal** (2020); **Journal of System and Information Technology** (2022); **Asia Pacific Journal of Information Systems** (2020, 2021).
 
 * Reviewer of the Journal Special Issues: **the International Journal of Accounting Information Systems** titled 'Blockchain: Using Accounting Skepticism to See Beyond the Hype', (2019) ; **Journal of Information Systems** titled 'Implications of Cybersecurity on Accounting Information', 2018.
 
