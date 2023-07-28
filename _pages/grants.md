@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Publications and Work in Progress"
-permalink: /publications/
+title: "Research Grants"
+permalink: /grants/
 author_profile: true
 ---
 I have secured multiple grants from the Singapore Government (SGD 307,843.00 research grant. 20% – 30% of the grant was externally funded by industry and external institutions) and Australia Funding Institutions and Indonesian Companies (AUD 129,846.00) and Indonesian Institutions (IDR 163,850,000.00) in data science and analytics and digital technologies area. The list is as follows:
