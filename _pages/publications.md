@@ -11,20 +11,27 @@ Please find the full list of my papers on [Google Scholar](https://scholar.googl
 
 Academic Journals
 ----
+* **Perdana, A**., Lee, W.E., & Chu, M.K. (Forthcoming). **Prototyping and Implementing Robotic Process Automation in Accounting Firms: Benefits, Challenges and Opportunities to Audit Automation**. _International Journal of Accounting Information Systems_. (**ABDC: A; SJR: Q1; AJG/ABS: 2)**.
 
-* Lee, W.E., & **Perdana, A.** (Conditional Acceptance). **Effects of Experiential Service Learning in Improving Community Engagement Perception, Sustainability Awareness, and Data Analytics Competency**. _Journal of Accounting Education_. **(SJR: Q1; ABDC: B)**.
+* **Perdana, A**., Jutasompakorn, P., Chung, S. (2023). <b>[Shaping Crowdlending Investors’ Trust: Technology, Social and Economic Exchanges Perspectives](https://doi.org/10.1007/s12525-023-00650-7)</b>. _Electronic Markets_, 33, Article 25. (ABDC: A; SJR: Q1; AJG/ABS: 2).
 
-* Perdana, A. & Wang, T. (Forthcoming). **Harnessing Data and Embracing Digital Strategy at Zalora**. _Journal of Emerging Technologies in Accounting_. **(ABDC: B; SJR: Q2)**.
+* **Perdana, A**. & Chu, M.K. (2023). <b>[Assessing Students’ Learning during Pandemic: Responses to Crisis Period at Singapore’s Higher Education Institutions](https://doi.org/10.1080/09639284.2023.2202161)</b>. _Accounting Education_. **(SJR: Q1; ABDC: A, AJG/ABS: 2)**.
 
-* Liew, A., O'Leary, D., **Perdana, A**., Wang, T. (Forthcoming). <b>[Digital Transformation in Accounting and Auditing: 2021 International Conference of the Journal of Information Systems Panel Discussion](https://doi.org/10.2308/ISYS-2022-008)</b>. _Journal of Information Systems_. **(SJR: Q1; ABDC: A; AJG/ABS: 1)**.
+* **Perdana, A**. & Wang, T. (2023). <b>[Harnessing Data and Embracing Digital Strategy at Zalora](https://doi.org/10.2308/JETA-2022-013)</b>. _Journal of Emerging Technologies in Accounting_. 20(1),111–123. **(ABDC: B; SJR: Q2)**.
 
-* **Perdana**, A., & Mokhtar, I.A (Forthcoming). <b>[Leveraging Digital Technologies for IT-Enabled Healthcare Transformation at SingHealth.](https://doi.org/10.1177/20438869221091582)</b> _Journal of Information Technology Teaching Cases_. **(AJG/ABS: 1)**
+* **Perdana, A**., & Mokhtar, I.A (2023). <b>[Leveraging Digital Technologies for IT-Enabled Healthcare Transformation at SingHealth.](https://doi.org/10.1177/20438869221091582)</b> _Journal of Information Technology Teaching Cases_.13(1), 97–103  **(AJG/ABS: 1)**
 
-* Jutasompakorn, P., & **Perdana, A**., & Balachandran, V. (Forthcoming). <b>[Enhancing Decision Making with Machine Learning: The case of Aurora Crowdlending Platform.](https://doi.org/10.1177/20438869211060847)</b> _Journal of Information Technology Teaching Cases_. **(AJG/ABS: 1)**
+* Jutasompakorn, P., & **Perdana, A**., & Balachandran, V. (2023). <b>[Enhancing Decision Making with Machine Learning: The case of Aurora Crowdlending Platform.](https://doi.org/10.1177/20438869211060847)</b> _Journal of Information Technology Teaching Cases_.13(1), 58–66. **(AJG/ABS: 1)**
 
-* **Perdana, A**., & Arisandi, D. (Forthcoming). <b>[Automation at Truveil: Business Process Understanding and Analysis in RPA Implementation](https://doi.org/10.2308/JETA-2021-025)</b>. _Journal of Emerging Technologies in Accounting_. **(ABDC: B; SJR: Q2)**.
+* Bharathi, S.V.K., Kulkarni, M.S., & **Perdana, A**. (2023). <b>[The Synergy Between Financial Technologies and Financial Inclusion: What We Know and Where We Should Be Heading?]( https://aisel.aisnet.org/pajais/vol15/iss1/4)</b>, _Pacific Asia Journal of the Association for Information Systems_, 15(1), Article 4. (ABDC: B; AJG/ABS: 2; JIF: 2).
 
-* **Perdana, A.**, & Tan, A. (Forthcoming). <b>[Performing Business Risk Assessment with Real-World Dataset and Data Visualisation](https://doi.org/10.1177/2043886921993128)</b>. _Journal of Information Technology Teaching Cases_, 12(1), 96-101. **(AJG/ABS: 1)**.
+* Lee, W.E., & **Perdana, A**. (2023). <b>[Effects of Experiential Service Learning in Improving Community Engagement Perception, Sustainability Awareness, and Data Analytics Competency](https://doi.org/10.1016/j.jaccedu.2023.100846)</b>. _Journal of Accounting Education_, 62, 100830 (SJR: Q1; ABDC: B, AJG/ABS: 2).
+
+* Liew, A., O'Leary, D., **Perdana, A**., Wang, T. (2022). <b>[Digital Transformation in Accounting and Auditing: 2021 International Conference of the Journal of Information Systems Panel Discussion](https://doi.org/10.2308/ISYS-2022-008)</b>. _Journal of Information Systems_, 36(3), 177-190. **(SJR: Q1; ABDC: A; AJG/ABS: 1)**.
+
+* **Perdana, A**., & Arisandi, D. (2022). <b>[Automation at Truveil: Business Process Understanding and Analysis in RPA Implementation](https://doi.org/10.2308/JETA-2021-025)</b>. _Journal of Emerging Technologies in Accounting_, 19(2), 141-154. **(ABDC: B; SJR: Q2)**.
+
+* **Perdana, A.**, & Tan, A. (2022). <b>[Performing Business Risk Assessment with Real-World Dataset and Data Visualisation](https://doi.org/10.1177/2043886921993128)</b>. _Journal of Information Technology Teaching Cases_, 12(1), 96-101. **(AJG/ABS: 1)**.
 
 * **Perdana, A.**, Lee, H-H., Arisandi, D., & Koh, S-K. (2022). <b> [Accelerating Data Analytics Adoption in Small and Mid-size Enterprises: A Singapore Context.](https://doi.org/10.1016/j.techsoc.2022.101966)</b> _Technology in Society_, 69, 101966. **(SJR: Q1, ABDC: B)**.
 
@@ -80,7 +87,7 @@ Practitioner/Specialist Journals
 Books/Book Chapters
 ----
 
-* Koh, S.K., Lee, H.H., & **Perdana, A.** (Forthcoming). Data Analytics in an Undergraduate Accountancy Programme: The Spaced Retrieval Method. In _Handbook of Big Data and Analytics in Accounting and Auditing_, Tarek Rana, Alan Lowe and Jan Svanberg (Eds). Springer.
+* Koh, S.K., Lee, H.H., & **Perdana, A.** (2023). <b>[Data Analytics in an Undergraduate Accountancy Programme: The Spaced Retrieval Method](https://link.springer.com/chapter/10.1007/978-981-19-4460-4_18)</b>. In _Handbook of Big Data and Analytics in Accounting and Auditing_, Tarek Rana, Alan Lowe and Jan Svanberg (Eds). Springer.
 
 * **Perdana, A.** (2021). <b>[Automasi Proses Robotik: Konsep dan Aplikasi di Akuntansi](https://play.google.com/store/books/details/Arif_Perdana_Automasi_Proses_Robotik_untuk_Akuntan?id=AQMREAAAQBAJ)</b>. Google Play Book.
 
@@ -89,6 +96,9 @@ Books/Book Chapters
 
 Peer-reviewed Conferences/Workshops
 ----
+* Lee, W.E., **Perdana, A**. (2023). Effects of Experiential Service Learning on Community Engagement Perception, Sustainability Awareness, and Data Analytics Competency. American Accounting Association Annual Meeting 2023 -Poster Session. Denver, Colorado, USA.
+
+* **Perdana, A**., Lee, W.E., & Quadrianto, N. (2023). Promoting Ethical and Responsible AI Practices in Accounting. American Accounting Association Annual Meeting 2023 -Poster Session. Denver, Colorado, USA.
 
 * Jutasompakorn, P., **Perdana, A**., Chung, S. (2022). Trust in Crowdlending: Do Lenders Value Profit, Safety or Platform Quality? _International Symposium on Accounting Information Systems_, Melbourne, Australia.
 
@@ -130,6 +140,11 @@ Peer-reviewed Conferences/Workshops
 Newspapers/Magazines
 ----
 
+* **Perdana, A.** (2023). <b>[‘Fintech’ tak hanya pinjol: Mengenal teknologi finansial dan potensi risikonya di Indonesia](https://theconversation.com/fintech-tak-hanya-pinjol-mengenal-teknologi-finansial-dan-potensi-risikonya-di-indonesia-203566?fbclid=IwAR0pqOeduFBisE9E5UqBHXC98BrDkB5ht6A5dE8S8OzfwUfdpKeUbwEPQUI)</b>. The Conversation Indonesia
+
+* **Perdana, A.**, & Wijaya, D. (2023). <b>[Mengapa menghentikan penelitian dan eksperimen terkait teknologi ChatGPT bukan solusi jitu?](https://theconversation.com/mengapa-menghentikan-penelitian-dan-eksperimen-terkait-teknologi-chatgpt-bukan-solusi-jitu-203847)</b> The Conversation Indonesia
+
+* Syarif, M., & **Perdana, A.** (2023). <b>[BSI terkena serangan siber: pentingnya tata kelola data yang baik bagi perusahaan](https://theconversation.com/bsi-terkena-serangan-siber-pentingnya-tata-kelola-data-yang-baik-bagi-perusahaan-205844)</b>. The Conversation Indonesia
 
 * **Perdana, A.** (2021). <b>[Kecerobohan Manusia dalam Kebocoran Data](https://katadata.co.id/muchamadnafi/indepth/61c531a9a4bc9/kecerobohan-manusia-dalam-kebocoran-data)</b>.  _Katadata_, Indonesia.
 
@@ -154,30 +169,34 @@ Non-peer reviewed Conferences
 
 Manuscript Under Review
 ----
+* **Perdana, A**, & Tan, S.  Harnessing Technologies and Data to Accelerate and Operationalize Environmental, Social and Governance (ESG) Initiatives. Submitted to a book chapter.
 
-* **Perdana, A**., Chu, M.K., & Lee, W.E. Robotic Process Automation Scenarios in Auditing: Cases Comparison in Accounting Firms, Proposed Automation Scenarios, Opportunities and Challenges. Submitted to a Journal.
+* **Perdana, A**, & Wang, T. (Editors). Digital Transformation in Accounting and Auditing. Expected to be published by Palgrave MacMillan by Summer 2023.
 
-* **Perdana, A**. & Chu, M.K. Assessment in Accounting-related Courses during COVID-19: Cases from Singapore Universities and Polytechnics. 2nd round review in a journal.
+* **Perdana, A**, Wang, D & Arifin, S. Artificial Intelligence in Accounting: Ethical Challenges and Legal Perspectives. Submitted to a book chapter.
 
-* **Perdana, A**., Lee, W.E., Pan, G., Sun, S.P., & Lim, C.Y. Trust in Cryptocurrencies: Economic, Social, Technological and Knowledge Influence. Submitted to a journal.
+* **Perdana, A**, Lee, W.E., Pan, G., Sun, S.P., & Lim, C.Y. Trust in Cryptocurrencies: Economic, Social, Technological and Knowledge Influence. Submitted to a journal.
 
-* **Perdana, A**., Lee, W.E., Pan, G., Sun, S.P., & Lim, C.Y. Ethics, Cultural Dimension and Trust in Cryptocurrency Use: A configurational analysis. Submitted to a journal
+* **Perdana, A**, Lee, W.E., Pan, G., Sun, S.P., & Lim, C.Y. Ethics, Cultural Dimension and Trust in Cryptocurrency Use: A configurational analysis. Submitted to a journal
 
-* Kulkarni, M.S., Bharathi, S.V.K., & **Perdana, A**., Kannan, A.K. Stock Price Prediction with Time Series Analysis, Machine Learning and Deep Learning Techniques. Submitted to a Journal.
+* Kulkarni, M.S., Bharathi, S.V.K., & **Perdana, A**, Kannan, A.K. Stock Price Prediction with Time Series Analysis, Machine Learning and Deep Learning Techniques. Submitted to a Journal.
 
-* **Perdana, A**., Jutasompakorn, P., Chung, S. Championing Trust: The Interplay of Cognitive and Technology to Inspire Trust and Usage Intention of Crowdlending Platform. Submitted to a Journal.
+* Vivekanand, T. S, Bharathi. S.V.K., **Perdana, A**, Venkatesh V.G, & Shi, P. Farm (Sea) to Plate: An Exploratory Study on the Applicability of Blockchain Applications in Sea-Food Supply Chain. Submitted to a journal.
 
-* Vivekanand, T. S, Bharathi. S.V.K., **Perdana, A**., Venkatesh V.G, & Shi, P. Farm (Sea) to Plate: An Exploratory Study on the Applicability of Blockchain Applications in Sea-Food Supply Chain. Submitted to a journal.
+* **Perdana, A**, Lee, W.E., & Quadrianto, N. Automated Decision-Making Systems: How Accountants Can Contribute Toward Ethical and Responsible Practices.  Submitted to a Journal.
 
-* Bharathi, S.V.K., Kulkarni, M.S., & **Perdana, A**. The Synergy Between Financial Technologies and Financial Inclusion: What We Know and Where We Should Be Heading? Submitted to a journal
-
+* Jutasompakorn, P.,  **Perdana, A**, Yap, L.Y. Discerning the Key Drivers behind Cryptocurrency Transactions: Identifying the Configurational Factors. Submitted to a Journal.
 
 Work in Progress
 ----
-* **Perdana, A**., Lee, W.E., & Quadrianto, N. Automated Decision Making and Ethical Challenges.  In preparation for a book chapter submission.
+* Lee, W.E., **Perdana, A**., Gao, P. Driving Sustainable Success: Unveiling the Influence of Global Reporting Initiatives Membership on Financial and ESG Performances. In preparation for journal submission.
 
-* Teo, H.C.,Liu, F.H.M., Lechner, A.M., **Perdana, A**., Clemenet, G.R., Abdulllah, D.V., Mahmood, J., Nuryartono, N, Koh, L.P. Mobilising faith-based communities for climate action. In preparation for journal submission.
+* **Perdana, A**. Jutasompakorn, P., Carrol, C., Lim, J. The Human Touch in a Digital Era: A Case of Precursor Assurance. In preparation for journal submission.
 
-* P**erdana, A**., Jutasompakorn, P., & Sprenkamp, K. Unbox the Black-Box of Credit Scoring Models using Model-Agnostic Explanations. In preparation for journal submission.
+* **Perdana, A**. From Clicks to Capital: Unveiling the Catalysts and Configurational Factors of Online Lending Use. In preparation for journal submission.
 
-* **Perdana, A**., & Wang, T. (Editors). Digital Transformation in Accounting and Auditing. Expected to be published by Palgrave MacMillan by Summer 2023.
+* **Perdana, A**., Jutasompakorn, P., & Sutanto, T. Unbox the Black-Box of Credit Scoring Models using Model-Agnostic Explanations. In preparation for journal submission.
+
+* Januarita, R., Alamsyah, I.F., & **Perdana, A**. Data Governance and Risk Management: A Case of an Indonesian Insurance Company. In preparation for journal submission
+
+* **Perdana, A**. Redefining Digital Innovation: The Meteoric Rise of ByteDance, the Powerhouse Behind TikTok. In preparation for journal submission
