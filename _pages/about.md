@@ -26,7 +26,7 @@ As a fellow, you will have the opportunity to contribute to one of three crucial
 
 Before you apply, you can talk with Prof. Quadrianto and A/Prof Arif Perdana via email about potential applications. We are also interested in research areas related to AI, machine learning, digital technology strategy, and sustainability. Join us on this pioneering journey to create a more just financial future. Apply now, and don't miss out!
 
-Click this [PDF](https://38391a20-5290-47cc-b234-f6dcc4660d6d.usrfiles.com/ugd/38391a_08d77746e488455f9599c5e2b9e338bb.pdf) to see the detail.
+Click this [PDF]([files/PhD Fellowship at Sussex and Monash.pdf](https://github.com/arifperdana/arifperdana.github.io/blob/master/files/PhD%20Fellowship%20at%20Sussex%20and%20Monash.pdf)) to see the detail.
 
 Research Featured in the Media and Institutional Webpages
 ======
