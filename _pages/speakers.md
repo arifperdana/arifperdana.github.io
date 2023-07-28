@@ -10,6 +10,14 @@ author_profile: true
 Invited Talks
 ----
 
+**2023**
+* Workshop Facilitator: **Teaching with Cases and Case Teaching Publications**. _Universitas Muhammadiyah Yogyakarta_, 27 May 2023.
+* PODCAST: **BSI terkena serangan siber: pentingnya tata kelola data yang baik bagi perusahaan**. _The Conversation Indonesia_, 16 May 2023
+* Guest Speaker: **Artificial Intelligence and Blockchain in Finance and Accounting**. _Institute Sains & Teknologi Akprind Yogyakarta_, 16 March 2023.
+* Panelist: **Harnessing Data and Digital Technologies in Public Sector**._ Bureau of Organization and Governance, The Ministry of Finance of the Republic of Indonesia_, 22 February 2023.
+* Guest Lecturer: **Data Governance: The Heart of Data Science**. _School of Information Technology, Help University_, Kuala Lumpur, Malaysia, 14 February 2023.
+* Invited Talk: **The Future of Cryptocurrencies in Indonesia**. _The Conversation Indonesia_, 2 January 2023. Youtube Link: https://www.youtube.com/watch?v=Lkj1-R6MWwc
+
 **2022**
 * Invited Speaker: **Data-Driven Public Sector: Harnessing Data to Improve Public Services**. _Fakultas Ekonomika dan Bisnis. Universitas Katolik Widya Mandira_, Kupang, Nusa Tenggara Timur, 16 December 2022.
 * Inivited Speaker: **Digital Technologies and the Accounting Education**. _Fakultas Ekonomi, Universitas Janabadra_, Yogyakarta, 14 December 2022.
