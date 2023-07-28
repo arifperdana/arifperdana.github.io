@@ -5,6 +5,7 @@ permalink: /grants/
 author_profile: true
 ---
 I have secured multiple grants from the Singapore Government (SGD 307,843.00 research grant. 20% – 30% of the grant was externally funded by industry and external institutions) and Australia Funding Institutions and Indonesian Companies (AUD 129,846.00) and Indonesian Institutions (IDR 163,850,000.00) in data science and analytics and digital technologies area. The list is as follows:
+
 ------
 
 * Monash Data Future Institute (MDFI) (PI). Research Team. Dr. Jackie Rong, Dr. Derry Wijaya, and Dr. Ridoan Karim. **Human and Algorithmic Systems Co-existence in Finance**. Amount: AUD 24,950.00 (June 2023 - June 2024).
