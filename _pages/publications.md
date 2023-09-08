@@ -7,7 +7,19 @@ author_profile: true
 Please find the full list of my papers on [Google Scholar](https://scholar.google.com/citations?user=yQLr1zMAAAAJ&hl=id).
 
 ------
+My research revolves around four themes: Digital Strategy, Sustainable Digital Transformation, Data Science and Analytics, and Management Information Systems.
 
+​In **Digital Strategy**, I examine the transformative potential of emerging technologies in traditional sectors, exemplified by integrating automation technologies into the business domain. This shift mirrors the broader digital metamorphosis in conventional industries. In addition, my recent endeavors have amplified the discourse on ethical AI practices in business.
+
+Venturing **Sustainable Digital Transformation**, I highlight the monumental impact of digital tools on business and the evolving digital landscape of health care. My work in Asia's fintech domain, particularly crowdlending, emphasizes the significance of trust dynamics and financial inclusivity.
+ 
+In **Data Science and Analytics**, I underscore the transformative role of AI and machine learning in decision-making and the indispensable value of data visualization for comprehensive data interpretation. The omnipresence of data analytics informs strategies across enterprises on various scales.
+
+In the **Management Information Systems** domain, I investigate the synergy between technology and organizational dynamics. This includes analyzing trust in technological platforms and the pandemic-induced evolution of educational strategies. My research also critically examined blockchain technologies' proliferation and potential disruptions across sectors.
+
+Currently, I am working on diverse research topics in the digital realm. I now delve into the operationalization of Environmental, Social, and Governance (ESG) initiatives using technology, the implications of digital transformation in business, and the ethical challenges posed by AI. I also look at cryptocurrencies' trust, ethics, and cultural dimensions. Additionally, my research spectrum extends to predictive modelling using advanced algorithms, blockchain in supply chains, and human-algorithmic coexistence in automated decision-making. Furthermore, I also have projects on online lending and the digital trajectory of online platforms. In varying stages, these works range from under review to preparation for submission.
+
+------
 
 Academic Journals
 ----
