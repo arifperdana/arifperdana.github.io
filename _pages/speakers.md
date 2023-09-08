@@ -9,6 +9,11 @@ author_profile: true
 
 Invited Talks
 ----
+I have delivered speeches in multiple domains, such as digital technology, data science, finance, and education. My voice echoed insights into diverse topics from prestigious institutions and numerous universities in Indonesia and Singapore, such as the Ministry of Finance of the Republic of Indonesia, Singapore Institute of Technology, Universitas Gadjah Mada, Binus University, BNI, and OCBC Indonesia, to influential conferences and platforms, such as the QS Higher Ed Summit: Asia Pacific 2022, T20/G20 International Conference, and The Conversation Indonesia.
+
+I have delved into the transformative power of AI. My speeches also touch on blockchain in finance (including cryptocurrencies and decentralized finance). I also emphasized the essence of data governance in data science. Additionally, I am involved in workshops that signify my commitment to pedagogical innovation, notably in teaching cases. My talk bridges geographical boundaries, signaling a global impact, and commitment to the digital future.
+
+----
 
 **2023**
 * Workshop Facilitator: **Teaching with Cases and Case Teaching Publications**. _Universitas Muhammadiyah Yogyakarta_, 27 May 2023.
