@@ -29,7 +29,7 @@ PhD Scholarship Opportunity in AI related areas. Joint Supervision from the Univ
 Research Featured in the Media and Institutional Webpages
 ======
 
-![Kementerian Keuangan Republik Indonesia](/images/Media_KMK.jpg)
+![Kementerian Keuangan Republik Indonesia](/images/Media_KMK_.jpg)
 
 ![Busines Time](/images/Media_BT.jpg)
 
