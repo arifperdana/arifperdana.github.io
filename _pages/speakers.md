@@ -9,13 +9,44 @@ author_profile: true
 
 Invited Talks
 ----
-I have delivered speeches in multiple domains, such as digital technology, data science, finance, and education. My voice echoed insights into diverse topics from prestigious institutions and numerous universities in Indonesia and Singapore, such as the Ministry of Finance of the Republic of Indonesia, Singapore Institute of Technology, Universitas Gadjah Mada, Binus University, BNI, and OCBC Indonesia, to influential conferences and platforms, such as the QS Higher Ed Summit: Asia Pacific 2022, T20/G20 International Conference, and The Conversation Indonesia.
 
-I have delved into the transformative power of AI. My speeches also touch on blockchain in finance (including cryptocurrencies and decentralized finance). I also emphasized the essence of data governance in data science. Additionally, I am involved in workshops that signify my commitment to pedagogical innovation, notably in teaching cases. My talk bridges geographical boundaries, signaling a global impact, and commitment to the digital future.
+I have had the privilege of delivering speeches across various domains, such as digital technology, data science, finance, and education. My talks have reached audiences at prestigious institutions and professional associations across Australia, Indonesia, India, Singapore, South Korea, and the United Kingdom, including the Ministry of Finance of the Republic of Indonesia, Financial Service Authority (OJK) Indonesia, Association of Certified Fraud Examiners Indonesia, CPA Australia Indonesia, University of Sussex, Anglia Ruskin University, Swinburne University of Technology, RMIT Vietnam, Singapore Institute of Technology, Pusan National University, Universitas Gadjah Mada, Binus University, BNI, and OCBC Indonesia. These talks have also featured significant conferences and platforms such as the QS Higher Ed Summit: Asia Pacific 2022, T20/G20 International Conference, and The Conversation Indonesia.
+
+In these speeches, I discussed the transformative potential of artificial intelligence (AI) and the critical role of blockchain in finance, including cryptocurrencies and decentralized finance. I also highlight the importance of data governance in the field of data science. Additionally, my involvement in educational workshops demonstrates my dedication to pedagogical innovation, particularly the development of teaching and business cases. My efforts aim to bridge geographical boundaries, reflecting on global engagement and commitment to advancing our digital future.
 
 ----
 
+**2024**
+* Speaker: **Blockchain Applications Driving Accounting Sector Transformation.** _OJK Institute Webinar Series_, 11 July 2024. *(The highest online participants with 4,000 attendance).*
+* Speaker: **Harnessing Generative AI in the Accounting Profession: Experiences from the Field and Educational Insights.** _Data Analytics Special Interest Group Meeting, AFAANZ Conference_, Auckland, New Zealand, 1 July 2024.
+* Workshop: **Responsible Use of AI in Higher Education, Indonesia.** STIA LAN, Jakarta, Indonesia, 13 June 2024.
+* Workshop: **Pemanfaatan Data Analytics di Sektor Jasa Keuangan.** OJK Institute, Indonesia, 28-29 May 2024.
+* Research Seminar: **Social Capital, Ecological Rationality, and Technology Considerations in Agricultural Digitalization Practices: A Configurational Analysis.** _Swinburne University of Technology, Australia_, 29 April 2024.
+* Guest Lecture: **Digital Strategy and Transformation Driving the Business Value: ByteDance and Haidilao Cases.** _RMIT Vietnam_, 19 April 2024.
+* Speaker: **Algorithmic Trust and Regulation: Governance, Ethics, Legal, and Social Impact Blueprint for Indonesia's Central Banking.** _University of Sussex_, 16 February 2024, The United Kingdom.
+* Speaker: **Technological, Social, and Economic Influences on Trust in Crowdlending Investment.** _Anglia Ruskin University_, 13 February 2024, The United Kingdom.
+
+
 **2023**
+# 2023
+
+* Guest Lecture: **Data Science and Analytics for Decision Making.** _Binus University_, 16 December 2023, Indonesia.
+* Guest Lecture: **Financial Futures Shaped by Data Science Insight.** _Symbiosis Centre of Information Technology_, Pune, 14 December 2023, India.
+* Speaker: **The Socio-Economic Journey of Technology for All.** _The 12th AIFED (Annual International Forum of Economic Development and Public Policy) - New Technology and The Diverging World_, Bali, 6-7 December 2023, Indonesia.
+* Podcast: **AI dalam kampanye Pemilu 2024: akankah memperparah penyebaran hoaks?** _The Conversation Indonesia_, 7 December 2023.
+* Panel Discussion: **Empowering Southeast Asia's Digital Future: Talent Development Initiatives.** _Data Science Weekend Discussion - Supported by Telkomsel_. Jakarta, Indonesia, 27 November 2023.
+* Session Chair: **Responsible AI/Explainable AI.** _The 20th Pacific Rim International Conference on Artificial Intelligence_. Jakarta, Indonesia, 15-18 November 2023.
+* Panel Discussant: **AI and the Future of Work.** _The 20th Pacific Rim International Conference on Artificial Intelligence_. Jakarta, Indonesia, 15-18 November 2023.
+* Expert Opinion: **E-commerce and Cryptocurrency Digital Strategy.** _Komisi Pengawas Persaingan Usaha (Indonesian Competition Commission/KPPU) Republik Indonesia_, 9 November 2023.
+* Moderator: **Equity, Diversity, and Inclusion (EDI) in Finance.** _Monash University, Indonesia EDI Month_. 21 October 2023.
+* Invited Speaker: **Professional Accountants at the Crossroads: Navigating AI and ESG in Sustainable Accounting.** _Universitas Tanjungpura_, 18 October 2023.
+* Invited Speaker: **Sustainability and AI Convergence: Transforming Accounting Practices.** _Universitas Islam Negeri Alauddin_, Makassar, 11 October 2023.
+* Invited Speaker: **AI in Finance - Transforming the Future of Finance.** _Information Systems Department, Institute Teknologi Sepuluh November_, 22 September 2023.
+* Podcast: **Universitas Negeri Semarang TV: AI in Finance.** _Universitas Negeri Semarang_, 15 September 2023.
+* Guest Lecture: **Crafting the Future: Generative AI's Role in Education and Business.** _Faculty of Economics and Business, Universitas Negeri Semarang_, 15 September 2023.
+* Guest Lecture: **Digital Trustkeepers: Accountants' Role in Ethical AI and Sustainable Digital Strategies.** _Petra Christian University_, Surabaya, 12 September 2023.
+* Guest Lecture: **Behind the Digital Veil: The AI Revolution and the Synthetic Media Dilemma.** _National Anti-Fraud Conference 2023_, Surabaya, 14 September.
+* Invited Speaker: **Technology and Innovation in Indonesia.** _Monash Australia MBA Visit to Indonesia_, 6 September 2023.
 * Workshop Facilitator: **Teaching with Cases and Case Teaching Publications**. _Universitas Muhammadiyah Yogyakarta_, 27 May 2023.
 * PODCAST: **BSI terkena serangan siber: pentingnya tata kelola data yang baik bagi perusahaan**. _The Conversation Indonesia_, 16 May 2023
 * Guest Speaker: **Artificial Intelligence and Blockchain in Finance and Accounting**. _Institute Sains & Teknologi Akprind Yogyakarta_, 16 March 2023.
