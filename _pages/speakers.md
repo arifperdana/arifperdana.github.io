@@ -28,8 +28,6 @@ In these speeches, I discussed the transformative potential of artificial intell
 
 
 **2023**
-# 2023
-
 * Guest Lecture: **Data Science and Analytics for Decision Making.** _Binus University_, 16 December 2023, Indonesia.
 * Guest Lecture: **Financial Futures Shaped by Data Science Insight.** _Symbiosis Centre of Information Technology_, Pune, 14 December 2023, India.
 * Speaker: **The Socio-Economic Journey of Technology for All.** _The 12th AIFED (Annual International Forum of Economic Development and Public Policy) - New Technology and The Diverging World_, Bali, 6-7 December 2023, Indonesia.
