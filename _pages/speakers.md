@@ -7,7 +7,7 @@ author_profile: true
 
 
 
-# Invited Talks
+## Invited Talks
 
 I have had the privilege of delivering speeches across various domains, such as digital technology, data science, finance, and education. My talks have reached audiences at prestigious institutions and professional associations across Australia, China, Indonesia, India, Singapore, South Korea, and the United Kingdom, including the Ministry of Finance of the Republic of Indonesia, Financial Service Authority (OJK) Indonesia, IDSurvey, Indonesia Re, Association of Certified Fraud Examiners Indonesia, CPA Australia Indonesia, The Hong Kong University of Science and Technology, Xian Jiaotong-Liverpool University, University of Sussex, Anglia Ruskin University, Swinburne University of Technology, RMIT Vietnam, Singapore Institute of Technology, Pusan National University, Symbiosis Centre of Information Technology, Help University, Universitas Gadjah Mada, Institute Teknologi Sepuluh November, Telkom University, Binus University, Universitas Sebelas Maret, Universitas Negeri Semarang, STIA LAN, UIN Syarif Hidayatullah, Universitas Muhammadiyah Yogyakarta, Universitas Islam Bandung, BNI, CIMB Niaga and OCBC Indonesia. These talks have also featured significant conferences and platforms such as Information Systems-related Conferences, Accounting and Finance-related Conferences, the QS Higher Ed Summit: Asia Pacific 2022, and T20/G20 International Conference.
 
