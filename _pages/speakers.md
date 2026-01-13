@@ -5,11 +5,9 @@ permalink: /speakers/
 author_profile: true
 ---
 
-
-
 ## Invited Talks
 
-I have had the privilege of delivering speeches across various domains, such as digital technology, data science, finance, and education. My talks have reached audiences at prestigious institutions and professional associations across Australia, China, Indonesia, India, Singapore, South Korea, and the United Kingdom, including the Ministry of Finance of the Republic of Indonesia, Financial Service Authority (OJK) Indonesia, IDSurvey, Indonesia Re, Association of Certified Fraud Examiners Indonesia, CPA Australia Indonesia, The Hong Kong University of Science and Technology, Xian Jiaotong-Liverpool University, University of Sussex, Anglia Ruskin University, Swinburne University of Technology, RMIT Vietnam, Singapore Institute of Technology, Pusan National University, Symbiosis Centre of Information Technology, Help University, Universitas Gadjah Mada, Institute Teknologi Sepuluh November, Telkom University, Binus University, Universitas Sebelas Maret, Universitas Negeri Semarang, STIA LAN, UIN Syarif Hidayatullah, Universitas Muhammadiyah Yogyakarta, Universitas Islam Bandung, BNI, CIMB Niaga and OCBC Indonesia. These talks have also featured significant conferences and platforms such as Information Systems-related Conferences, Accounting and Finance-related Conferences, the QS Higher Ed Summit: Asia Pacific 2022, and T20/G20 International Conference.
+I have had the privilege of delivering speeches across various domains, such as digital technology, data science, finance, and education. My talks have reached audiences at prestigious institutions and professional associations across Australia, China, Indonesia, India, Singapore, South Korea, and the United Kingdom, including the Ministry of Finance of the Republic of Indonesia, the Ministry of National Development Planning/National Development Planning Agency, Financial Service Authority (OJK) Indonesia, IDSurvey, Indonesia Re, Association of Certified Fraud Examiners Indonesia, CPA Australia Indonesia, The Hong Kong University of Science and Technology, Xian Jiaotong-Liverpool University, University of Sussex, Anglia Ruskin University, Swinburne University of Technology, RMIT Vietnam, Singapore Institute of Technology, Pusan National University, Symbiosis Centre of Information Technology, Help University, Universitas Gadjah Mada, Institute Teknologi Sepuluh November, Telkom University, Binus University, Universitas Sebelas Maret, Universitas Negeri Semarang, STIA LAN, UIN Syarif Hidayatullah, Universitas Muhammadiyah Yogyakarta, Universitas Islam Bandung, BNI, CIMB Niaga and OCBC Indonesia. These talks have also featured significant conferences and platforms such as Information Systems-related Conferences, Accounting and Finance-related Conferences, the QS Higher Ed Summit: Asia Pacific 2022, and T20/G20 International Conference.
 
 In these speeches, I discussed digital transformation and AI implementation in finance and accounting, emphasizing ethical considerations and governance. Frequent focus on data analytics, blockchain applications, and generative AI's impact on education and business operations. Topics cover cryptocurrency developments, ESG (Environmental, Social, and Governance) integration with technology, data governance frameworks, and AI-powered policy analytics. Significant emphasis on AI ethics and responsible technology use in financial services. Other themes include digital financial inclusion, automated decision-making systems, crowdlending technology, and the role of AI in public sector services. Recent talks heavily feature GenAI applications and data protection strategies. My efforts aim to bridge geographical boundaries, reflecting on global engagement and commitment to advancing our digital future.
 
@@ -17,17 +15,22 @@ In these speeches, I discussed digital transformation and AI implementation in f
 
 ## **2025**
 
-* **Facilitator:** **Turning Numbers into Actions: The FMCG Data Science Playbook.** _Unilever Indonesia_. 26 June 2025
-* **Facilitator:** **AI in Action: Revolutionizing Testing, Certification, and Regulatory Compliance.** _IDSurvey_, Jakarta 22 March 2025.
+* **Speaker:** **Future-Proof Your Career: Menguasai Keterampilan Praktis GenAI & Data Analytics untuk Akuntan Profesional.** _Universitas Bengkulu_, 13 November 2025.
+* **Speaker:** **Pedagogy, Assessment, and Research: Integrating Technology into Accounting Curriculum and Scholarship.** _Universitas Bengkulu_, 13 November 2025.
+* **Facilitator:** **Data Visualisation and Exploration for Regional Economics.** _Indonesian Ministry of National Development Planning/National Development Planning Agency_, 6 November 2025.
+* **Speaker:** **AI in Accounting & Technology-Enhanced Accounting Pedagogy.** _Universitas Muhammadiyah Yogyakarta_, 8 August 2025.
+* **Keynote:** **Agentic AI in Finance: Architecture, Governance, and Real-World Applications.** _4th International Conference on Emerging Information Technology and Engineering Solutions, Symbiosis Centre for Information Technology_, 25 July 2025.
+* **Facilitator:** **Turning Numbers into Actions: The FMCG Data Science Playbook.** _Unilever Indonesia_, 26 June 2025.
+* **Facilitator:** **AI in Action: Revolutionizing Testing, Certification, and Regulatory Compliance.** _IDSurvey_, Jakarta, 22 March 2025.
 * **Speaker:** **Smarter Banking with AI: Transforming Finance with Intelligence.** _CIMB Niaga_, Jakarta, 5 March 2025.
-* **Moderator and Co-Host:** **Project Automating Emphaty Globalising International Standards (AEGIS).** The workshop is in collaboration with UK Partners (Bangor University, the University of Winchester, and the University of Sussex), Jakarta, 15 January 2025.
+* **Moderator and Co-Host:** **Project Automating Empathy Globalising International Standards (AEGIS).** The workshop is in collaboration with UK Partners (Bangor University, the University of Winchester, and the University of Sussex), Jakarta, 15 January 2025.
 
 ## **2024**
 
 * **Guest Lecture:** **The Digital Edge: Why Computational Skills Are Redefining Business Success.** _Telkom University_, Bandung, Indonesia, 19 December 2024.
 * **Roundtable Discussion Lead:** **Strengthening the Collaboration of Multidisciplinary Research Innovation in SDG.** _Research and Engagement Unit, UNISBA_, Bandung, Indonesia, 19 December 2024.
 * **Guest Lecture:** **From Data to Decisions: Leveraging AI to Enhance Online Travel Agency Operations.** _The Royal Melbourne Institute of Technology (RMIT) Vietnam_, 17 December 2024.
-* **Workshop Lead:** **Creating Engaging Short Case Studies with GenAI and Whiteboarding Tools.** _TransformED, Monash Malaysia_, 10 December 2024
+* **Workshop Lead:** **Creating Engaging Short Case Studies with GenAI and Whiteboarding Tools.** _TransformED, Monash Malaysia_, 10 December 2024.
 * **Guest Lecture:** **AI and Data Science Landscape in Southeast Asia.** _The Hong Kong University of Science and Technology_, Hong Kong, 5 December 2024.
 * **Speaker:** **Automated Decision-Making Systems: How the Accounting Profession Can Contribute Toward Ethical and Responsible Practices.** _Xi'an Jiaotong-Liverpool University_, Suzhou, China, 28 November 2024.
 * **Speaker:** **Ethics in the Age of Digital Finance: The Dark Side of Digital Financial Transformation.** _The 2nd OJK International Research Forum_, Bali, 18 November 2024.
@@ -36,7 +39,7 @@ In these speeches, I discussed digital transformation and AI implementation in f
 * **Focus Group Discussion Facilitator:** **AI-Powered Policy Analytics.** _Center for Special Issues Policy Strategy and Data Analysis, Ministry of Foreign Affairs_, Jakarta, Indonesia, 12 September 2024.
 * **Focus Group Discussion Facilitator:** **Leveraging AI Based Policy Analytics to Enhance Policy Processes.** _Ministry of Finance of the Republic of Indonesia, Fiscal Policy Agency, Center for Regional and Bilateral Policy_, Jakarta, Indonesia, 28 August 2024.
 * **Speaker:** **Navigating the Intersection of Technology, Generative AI, Equity, and Quality in Higher Education: Challenges and Opportunities for the Future.** _EduVate 2024_, Jakarta, Indonesia, 23 August 2024.
-* **Panel Discussant:** **Data Governance and Knowledge Management in Insurance Industry.** _Indonesia Re International Conference 2024_, Jakarta, Indonesia 24 July 2024.
+* **Panel Discussant:** **Data Governance and Knowledge Management in Insurance Industry.** _Indonesia Re International Conference 2024_, Jakarta, Indonesia, 24 July 2024.
 * **Speaker:** **Blockchain Applications Driving Accounting Sector Transformation.** _OJK Institute Webinar Series_, 11 July 2024. *(The highest online participants with 4,000 attendance).*
 * **Speaker:** **Harnessing Generative AI in the Accounting Profession: Experiences from the Field and Educational Insights.** _Data Analytics Special Interest Group Meeting, AFAANZ Conference_, Auckland, New Zealand, 1 July 2024.
 * **Workshop:** **Responsible Use of AI in Higher Education, Indonesia.** _STIA LAN_, Jakarta, Indonesia, 13 June 2024.
@@ -66,7 +69,7 @@ In these speeches, I discussed digital transformation and AI implementation in f
 * **Invited Speaker:** **Behind the Digital Veil: The AI Revolution and the Synthetic Media Dilemma.** _National Anti-Fraud Conference 2023_, Surabaya, 14 September.
 * **Invited Speaker:** **Technology and Innovation in Indonesia.** _Monash Australia MBA Visit to Indonesia_, 6 September 2023.
 * **Workshop Facilitator:** **Teaching with Cases and Case Teaching Publications.** _Universitas Muhammadiyah Yogyakarta_, 27 May 2023.
-* **Podcast:** **BSI terkena serangan siber: pentingnya tata kelola data yang baik bagi perusahaan.** _The Conversation Indonesia_, 16 May 2023
+* **Podcast:** **BSI terkena serangan siber: pentingnya tata kelola data yang baik bagi perusahaan.** _The Conversation Indonesia_, 16 May 2023.
 * **Guest Speaker:** **Artificial Intelligence and Blockchain in Finance and Accounting.** _Institute Sains & Teknologi Akprind Yogyakarta_, 16 March 2023.
 * **Panelist:** **Harnessing Data and Digital Technologies in Public Sector.** _Bureau of Organization and Governance, The Ministry of Finance of the Republic of Indonesia_, 22 February 2023.
 * **Guest Lecturer:** **Data Governance: The Heart of Data Science.** _School of Information Technology, Help University_, Kuala Lumpur, Malaysia, 14 February 2023.
@@ -74,15 +77,15 @@ In these speeches, I discussed digital transformation and AI implementation in f
 
 ## **2022**
 
-* **Invited Speaker:** **Data-Driven Public Sector: Harnessing Data to Improve Public Services.** _Fakultas Ekonomika dan Bisnis. Universitas Katolik Widya Mandira_, Kupang, Nusa Tenggara Timur, 16 December 2022.
+* **Invited Speaker:** **Data-Driven Public Sector: Harnessing Data to Improve Public Services.** _Fakultas Ekonomika dan Bisnis, Universitas Katolik Widya Mandira_, Kupang, Nusa Tenggara Timur, 16 December 2022.
 * **Invited Speaker:** **Digital Technologies and the Accounting Education.** _Fakultas Ekonomi, Universitas Janabadra_, Yogyakarta, 14 December 2022.
 * **Guest Lecturer:** **Digital Technologies: How They Are Shaping the Current and Future Business Landscape.** _Fakultas Ekonomika dan Bisnis, Universitas Negeri Sebelas Maret_, Surakarta, 12 December 2022.
 * **Workshop Facilitator:** **Teaching Cases Development to Enhance Students' Learning Experiences.** _Universitas Islam Bandung_, 8 December 2022.
 * **Invited Speaker:** **Leveraging Technology and Data for Environmental, Social, and Governance (ESG).** _Indonesian Institute of Management Accountants_, Jakarta (Hybrid), 25 November 2022.
 * **Invited Speaker:** **Decentralized Finance: How It Is Shaking Up the Existing Finance Industry.** _CPA Australia in Indonesia Seminar_, Jakarta (Hybrid), 23 November 2022.
-* **Invited Speaker:** **Polarization and technology-fueled disinformation: steps to disengage and tackle misleading web content.** _Expert Roundtable. International Forum on Digital and Democracy_, Rome (Hybrid), 17 November 2022.
+* **Invited Speaker:** **Polarization and technology-fueled disinformation: steps to disengage and tackle misleading web content.** _Expert Roundtable, International Forum on Digital and Democracy_, Rome (Hybrid), 17 November 2022.
 * **Invited Speaker:** **Equitable Partnerships.** _QS Higher Ed Summit: Asia Pacific 2022_, Jakarta, Indonesia, 9 November 2022.
-* **Invited Speaker:** **Digital Finance for Financial Inclusion.** _The 2nd International Conference on Business and Economics_, Universitas Pattimura, 15 October 2022.
+* **Invited Speaker:** **Digital Finance for Financial Inclusion.** _The 2nd International Conference on Business and Economics, Universitas Pattimura_, 15 October 2022.
 * **Invited Speaker:** **Data Science: Turning Data into Actionable Insights.** _Universitas Islam Bandung_, 13 October 2022.
 * **Invited Speaker:** **Data Analytics: Analysing and Managing Business Data for Actionable Insight.** _Universitas Islam Negeri Alauddin_, Makassar, 13 October 2022.
 * **Invited Speaker:** **Blockchain and the Accounting Profession: Threats or Opportunities.** _ASA Festival 2022, Universitas Prasetya Mulya_, 24 September 2022.
